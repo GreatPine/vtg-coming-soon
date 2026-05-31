@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>VT Guide</title>
+</head>
+<body style="margin:0;background:#07111f;color:white;font-family:Arial,sans-serif;display:flex;align-items:center;justify-content:center;height:100vh;text-align:center;">
+  <div>
+    <img src="logo.png" alt="VT Guide" style="width:140px;margin-bottom:24px;" />
+    <h1>VT Guide</h1>
+    <p>Tourist Virtual Guide is coming soon</p>
+    <h2 id="countdown"></h2>
+  </div>
+
+  <script>
+    const launchDate = new Date("2026-09-01T00:00:00").getTime();
+
+    setInterval(() => {
+      const now = new Date().getTime();
+      const distance = launchDate - now;
+
+      const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+      const hours = Math.floor((distance / (1000 * 60 * 60)) % 24);
+      const minutes = Math.floor((distance / (1000 * 60)) % 60);
+
+      document.getElementById("countdown").innerHTML =
+        days + " days " + hours + " hours " + minutes + " min";
+    }, 1000);
+  </script>
+</body>
+</html>
