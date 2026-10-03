@@ -1,0 +1,5097 @@
+[
+  {
+    "slug": "what-is-vtg",
+    "category": "getting_started",
+    "title": "Šta je VTG?",
+    "content": "VTG je turistički vodič koji pomaže korisniku da pronađe zanimljiva mesta, kreira ture, koristi navigaciju i sluša audio naraciju o znamenitostima.",
+    "language_code": "sr",
+    "keywords": [
+      "Šta",
+      "VTG",
+      "what",
+      "vtg",
+      "početak",
+      "pitanja"
+    ],
+    "is_active": true,
+    "sort_order": 1
+  },
+  {
+    "slug": "what-is-vtg",
+    "category": "getting_started",
+    "title": "What is VTG?",
+    "content": "VTG is a tourist guide that helps you discover interesting places, create tours, use navigation and listen to audio narration about attractions.",
+    "language_code": "en",
+    "keywords": [
+      "What",
+      "VTG",
+      "what",
+      "vtg",
+      "getting started",
+      "faq"
+    ],
+    "is_active": true,
+    "sort_order": 1
+  },
+  {
+    "slug": "what-is-vtg",
+    "category": "getting_started",
+    "title": "Was ist VTG?",
+    "content": "VTG ist ein Reiseführer, mit dem Sie interessante Orte entdecken, Touren erstellen, die Navigation nutzen und Audiokommentare zu Sehenswürdigkeiten anhören können.",
+    "language_code": "de",
+    "keywords": [
+      "Was",
+      "ist",
+      "VTG",
+      "what",
+      "vtg",
+      "erste Schritte"
+    ],
+    "is_active": true,
+    "sort_order": 1
+  },
+  {
+    "slug": "what-is-vtg",
+    "category": "getting_started",
+    "title": "Qu'est-ce que VTG ?",
+    "content": "VTG est un guide touristique qui vous aide à découvrir des lieux intéressants, créer des circuits, utiliser la navigation et écouter des commentaires audio sur les sites touristiques.",
+    "language_code": "fr",
+    "keywords": [
+      "est",
+      "que",
+      "VTG",
+      "what",
+      "vtg",
+      "démarrage"
+    ],
+    "is_active": true,
+    "sort_order": 1
+  },
+  {
+    "slug": "what-is-vtg",
+    "category": "getting_started",
+    "title": "Che cos'è VTG?",
+    "content": "VTG è una guida turistica che aiuta a scoprire luoghi interessanti, creare itinerari, utilizzare la navigazione e ascoltare narrazioni audio sulle attrazioni.",
+    "language_code": "it",
+    "keywords": [
+      "Che",
+      "cos",
+      "VTG",
+      "what",
+      "vtg",
+      "inizio"
+    ],
+    "is_active": true,
+    "sort_order": 1
+  },
+  {
+    "slug": "what-is-vtg",
+    "category": "getting_started",
+    "title": "¿Qué es VTG?",
+    "content": "VTG es una guía turística que ayuda a descubrir lugares interesantes, crear recorridos, utilizar la navegación y escuchar narraciones de audio sobre lugares de interés.",
+    "language_code": "es",
+    "keywords": [
+      "Qué",
+      "VTG",
+      "what",
+      "vtg",
+      "inicio",
+      "preguntas"
+    ],
+    "is_active": true,
+    "sort_order": 1
+  },
+  {
+    "slug": "what-is-vtg",
+    "category": "getting_started",
+    "title": "Что такое VTG?",
+    "content": "VTG — это туристический гид, который помогает находить интересные места, создавать маршруты, пользоваться навигацией и слушать аудиорассказы о достопримечательностях.",
+    "language_code": "ru",
+    "keywords": [
+      "Что",
+      "такое",
+      "VTG",
+      "what",
+      "vtg",
+      "начало"
+    ],
+    "is_active": true,
+    "sort_order": 1
+  },
+  {
+    "slug": "what-is-vtg",
+    "category": "getting_started",
+    "title": "什么是 VTG？",
+    "content": "VTG 是一款旅游向导应用，可帮助您发现有趣的地点、创建游览路线、使用导航，并收听有关景点的语音讲解。",
+    "language_code": "zh",
+    "keywords": [
+      "什么是",
+      "VTG",
+      "what",
+      "vtg",
+      "入门",
+      "常见问题"
+    ],
+    "is_active": true,
+    "sort_order": 1
+  },
+  {
+    "slug": "what-is-vtg",
+    "category": "getting_started",
+    "title": "VTG क्या है?",
+    "content": "VTG एक पर्यटन गाइड है जो आपको रोचक स्थान खोजने, टूर बनाने, नेविगेशन का उपयोग करने और दर्शनीय स्थलों के बारे में ऑडियो विवरण सुनने में मदद करता है।",
+    "language_code": "hi",
+    "keywords": [
+      "VTG",
+      "what",
+      "vtg",
+      "शुरुआत",
+      "प्रश्न",
+      "मदद"
+    ],
+    "is_active": true,
+    "sort_order": 1
+  },
+  {
+    "slug": "what-is-vtg",
+    "category": "getting_started",
+    "title": "ما هو VTG؟",
+    "content": "VTG هو دليل سياحي يساعدك على اكتشاف الأماكن المهمة وإنشاء الجولات واستخدام الملاحة والاستماع إلى الشرح الصوتي للمعالم.",
+    "language_code": "ar",
+    "keywords": [
+      "VTG",
+      "what",
+      "vtg",
+      "البدء",
+      "أسئلة",
+      "مساعدة"
+    ],
+    "is_active": true,
+    "sort_order": 1
+  },
+  {
+    "slug": "change-language",
+    "category": "getting_started",
+    "title": "Kako da promenim jezik aplikacije?",
+    "content": "Jezik aplikacije možete promeniti u sekciji Podešavanja naloga. Otvorite Podešavanja naloga, izaberite jezik i sačuvajte izbor; promena se primenjuje na interfejs aplikacije.",
+    "language_code": "sr",
+    "keywords": [
+      "Kako",
+      "promenim",
+      "jezik",
+      "aplikacije",
+      "change",
+      "language"
+    ],
+    "is_active": true,
+    "sort_order": 2
+  },
+  {
+    "slug": "change-language",
+    "category": "getting_started",
+    "title": "How do I change the app language?",
+    "content": "You can change the app language in Account Settings. Open Account Settings, choose a language and save your selection; the change applies to the app interface.",
+    "language_code": "en",
+    "keywords": [
+      "How",
+      "change",
+      "the",
+      "app",
+      "language",
+      "getting started"
+    ],
+    "is_active": true,
+    "sort_order": 2
+  },
+  {
+    "slug": "change-language",
+    "category": "getting_started",
+    "title": "Wie ändere ich die Sprache der App?",
+    "content": "Sie können die Sprache der App in den Kontoeinstellungen ändern. Öffnen Sie die Kontoeinstellungen, wählen Sie eine Sprache und speichern Sie die Auswahl; die Änderung gilt für die Benutzeroberfläche.",
+    "language_code": "de",
+    "keywords": [
+      "Wie",
+      "ändere",
+      "ich",
+      "die",
+      "change",
+      "language"
+    ],
+    "is_active": true,
+    "sort_order": 2
+  },
+  {
+    "slug": "change-language",
+    "category": "getting_started",
+    "title": "Comment changer la langue de l'application ?",
+    "content": "Vous pouvez modifier la langue de l’application dans les paramètres du compte. Ouvrez les paramètres du compte, choisissez une langue et enregistrez votre choix ; la modification s’applique à l’interface.",
+    "language_code": "fr",
+    "keywords": [
+      "Comment",
+      "changer",
+      "langue",
+      "application",
+      "change",
+      "language"
+    ],
+    "is_active": true,
+    "sort_order": 2
+  },
+  {
+    "slug": "change-language",
+    "category": "getting_started",
+    "title": "Come posso cambiare la lingua dell'app?",
+    "content": "Puoi cambiare la lingua dell'app nelle Impostazioni account. Apri le Impostazioni account, scegli una lingua e salva la scelta; la modifica viene applicata all'interfaccia dell'app.",
+    "language_code": "it",
+    "keywords": [
+      "Come",
+      "posso",
+      "cambiare",
+      "lingua",
+      "change",
+      "language"
+    ],
+    "is_active": true,
+    "sort_order": 2
+  },
+  {
+    "slug": "change-language",
+    "category": "getting_started",
+    "title": "¿Cómo puedo cambiar el idioma de la aplicación?",
+    "content": "Puedes cambiar el idioma de la aplicación en Ajustes de la cuenta. Abre Ajustes de la cuenta, elige un idioma y guarda la selección; el cambio se aplica a la interfaz de la aplicación.",
+    "language_code": "es",
+    "keywords": [
+      "Cómo",
+      "puedo",
+      "cambiar",
+      "idioma",
+      "change",
+      "language"
+    ],
+    "is_active": true,
+    "sort_order": 2
+  },
+  {
+    "slug": "change-language",
+    "category": "getting_started",
+    "title": "Как изменить язык приложения?",
+    "content": "Язык приложения можно изменить в настройках аккаунта. Откройте настройки аккаунта, выберите язык и сохраните выбор; изменение применяется к интерфейсу приложения.",
+    "language_code": "ru",
+    "keywords": [
+      "Как",
+      "изменить",
+      "язык",
+      "приложения",
+      "change",
+      "language"
+    ],
+    "is_active": true,
+    "sort_order": 2
+  },
+  {
+    "slug": "change-language",
+    "category": "getting_started",
+    "title": "如何更改应用语言？",
+    "content": "您可以在账户设置中更改应用语言。打开账户设置，选择语言并保存；更改将应用于应用界面。",
+    "language_code": "zh",
+    "keywords": [
+      "如何更改应用语言",
+      "change",
+      "language",
+      "入门",
+      "常见问题",
+      "帮助"
+    ],
+    "is_active": true,
+    "sort_order": 2
+  },
+  {
+    "slug": "change-language",
+    "category": "getting_started",
+    "title": "ऐप की भाषा कैसे बदलें?",
+    "content": "आप खाता सेटिंग्स में ऐप की भाषा बदल सकते हैं। खाता सेटिंग्स खोलें, भाषा चुनें और चयन सहेजें; बदलाव ऐप के इंटरफ़ेस पर लागू होगा।",
+    "language_code": "hi",
+    "keywords": [
+      "बदल",
+      "change",
+      "language",
+      "शुरुआत",
+      "प्रश्न",
+      "मदद"
+    ],
+    "is_active": true,
+    "sort_order": 2
+  },
+  {
+    "slug": "change-language",
+    "category": "getting_started",
+    "title": "كيف يمكنني تغيير لغة التطبيق؟",
+    "content": "يمكنك تغيير لغة التطبيق من إعدادات الحساب. افتح إعدادات الحساب، واختر اللغة ثم احفظ الاختيار؛ سيُطبَّق التغيير على واجهة التطبيق.",
+    "language_code": "ar",
+    "keywords": [
+      "كيف",
+      "يمكنني",
+      "تغيير",
+      "لغة",
+      "change",
+      "language"
+    ],
+    "is_active": true,
+    "sort_order": 2
+  },
+  {
+    "slug": "account-required",
+    "category": "account",
+    "title": "Da li mi je potreban korisnički nalog?",
+    "content": "Za funkcije povezane sa čuvanjem podataka, istorijom, pretplatom i korisničkom podrškom potreban je VTG nalog.",
+    "language_code": "sr",
+    "keywords": [
+      "potreban",
+      "korisnički",
+      "nalog",
+      "account",
+      "required",
+      "pitanja"
+    ],
+    "is_active": true,
+    "sort_order": 3
+  },
+  {
+    "slug": "account-required",
+    "category": "account",
+    "title": "Do I need a user account?",
+    "content": "A VTG account is required for features related to saved data, history, subscriptions and user support.",
+    "language_code": "en",
+    "keywords": [
+      "need",
+      "user",
+      "account",
+      "required",
+      "faq",
+      "help"
+    ],
+    "is_active": true,
+    "sort_order": 3
+  },
+  {
+    "slug": "account-required",
+    "category": "account",
+    "title": "Benötige ich ein Benutzerkonto?",
+    "content": "Für Funktionen wie gespeicherte Daten, Verlauf, Abonnements und Kundensupport benötigen Sie ein VTG-Konto.",
+    "language_code": "de",
+    "keywords": [
+      "Benötige",
+      "ich",
+      "ein",
+      "Benutzerkonto",
+      "account",
+      "required"
+    ],
+    "is_active": true,
+    "sort_order": 3
+  },
+  {
+    "slug": "account-required",
+    "category": "account",
+    "title": "Ai-je besoin d'un compte utilisateur ?",
+    "content": "Un compte VTG est nécessaire pour les fonctions liées aux données enregistrées, à l'historique, aux abonnements et à l'assistance.",
+    "language_code": "fr",
+    "keywords": [
+      "besoin",
+      "compte",
+      "utilisateur",
+      "account",
+      "required",
+      "questions"
+    ],
+    "is_active": true,
+    "sort_order": 3
+  },
+  {
+    "slug": "account-required",
+    "category": "account",
+    "title": "È necessario un account utente?",
+    "content": "Un account VTG è necessario per le funzioni relative ai dati salvati, alla cronologia, agli abbonamenti e all'assistenza.",
+    "language_code": "it",
+    "keywords": [
+      "necessario",
+      "account",
+      "utente",
+      "required",
+      "domande",
+      "aiuto"
+    ],
+    "is_active": true,
+    "sort_order": 3
+  },
+  {
+    "slug": "account-required",
+    "category": "account",
+    "title": "¿Necesito una cuenta de usuario?",
+    "content": "Se necesita una cuenta de VTG para las funciones relacionadas con datos guardados, historial, suscripciones y soporte al usuario.",
+    "language_code": "es",
+    "keywords": [
+      "Necesito",
+      "una",
+      "cuenta",
+      "usuario",
+      "account",
+      "required"
+    ],
+    "is_active": true,
+    "sort_order": 3
+  },
+  {
+    "slug": "account-required",
+    "category": "account",
+    "title": "Нужна ли мне учётная запись?",
+    "content": "Учётная запись VTG необходима для функций, связанных с сохранёнными данными, историей, подпиской и поддержкой пользователей.",
+    "language_code": "ru",
+    "keywords": [
+      "Нужна",
+      "мне",
+      "учётная",
+      "запись",
+      "account",
+      "required"
+    ],
+    "is_active": true,
+    "sort_order": 3
+  },
+  {
+    "slug": "account-required",
+    "category": "account",
+    "title": "我需要注册账户吗？",
+    "content": "使用数据保存、历史记录、订阅和用户支持等功能需要 VTG 账户。",
+    "language_code": "zh",
+    "keywords": [
+      "我需要注册账户吗",
+      "account",
+      "required",
+      "账户",
+      "常见问题",
+      "帮助"
+    ],
+    "is_active": true,
+    "sort_order": 3
+  },
+  {
+    "slug": "account-required",
+    "category": "account",
+    "title": "क्या मुझे उपयोगकर्ता खाता चाहिए?",
+    "content": "सहेजे गए डेटा, इतिहास, सदस्यता और उपयोगकर्ता सहायता जैसी सुविधाओं के लिए VTG खाता आवश्यक है।",
+    "language_code": "hi",
+    "keywords": [
+      "उपय",
+      "गकर",
+      "account",
+      "required",
+      "खाता",
+      "प्रश्न"
+    ],
+    "is_active": true,
+    "sort_order": 3
+  },
+  {
+    "slug": "account-required",
+    "category": "account",
+    "title": "هل أحتاج إلى حساب مستخدم؟",
+    "content": "يلزم حساب VTG لاستخدام الميزات المتعلقة بحفظ البيانات والسجل والاشتراكات ودعم المستخدم.",
+    "language_code": "ar",
+    "keywords": [
+      "أحتاج",
+      "إلى",
+      "حساب",
+      "مستخدم",
+      "account",
+      "required"
+    ],
+    "is_active": true,
+    "sort_order": 3
+  },
+  {
+    "slug": "supported-cities",
+    "category": "getting_started",
+    "title": "Da li VTG radi u svim gradovima?",
+    "content": "VTG može koristiti lokaciju i dostupne podatke za različite gradove i države. Količina dostupnog sadržaja može se razlikovati od mesta do mesta.",
+    "language_code": "sr",
+    "keywords": [
+      "VTG",
+      "radi",
+      "svim",
+      "gradovima",
+      "supported",
+      "cities"
+    ],
+    "is_active": true,
+    "sort_order": 4
+  },
+  {
+    "slug": "supported-cities",
+    "category": "getting_started",
+    "title": "Does VTG work in every city?",
+    "content": "VTG can use location and available data in many cities and countries. The amount of available content may vary by location.",
+    "language_code": "en",
+    "keywords": [
+      "Does",
+      "VTG",
+      "work",
+      "every",
+      "supported",
+      "cities"
+    ],
+    "is_active": true,
+    "sort_order": 4
+  },
+  {
+    "slug": "supported-cities",
+    "category": "getting_started",
+    "title": "Funktioniert VTG in allen Städten?",
+    "content": "VTG kann Standortdaten und verfügbare Informationen in vielen Städten und Ländern nutzen. Der verfügbare Inhalt kann je nach Ort unterschiedlich sein.",
+    "language_code": "de",
+    "keywords": [
+      "Funktioniert",
+      "VTG",
+      "allen",
+      "Städten",
+      "supported",
+      "cities"
+    ],
+    "is_active": true,
+    "sort_order": 4
+  },
+  {
+    "slug": "supported-cities",
+    "category": "getting_started",
+    "title": "VTG fonctionne-t-il dans toutes les villes ?",
+    "content": "VTG peut utiliser la localisation et les données disponibles dans de nombreuses villes et pays. La quantité de contenu disponible peut varier selon l'endroit.",
+    "language_code": "fr",
+    "keywords": [
+      "VTG",
+      "fonctionne",
+      "dans",
+      "toutes",
+      "supported",
+      "cities"
+    ],
+    "is_active": true,
+    "sort_order": 4
+  },
+  {
+    "slug": "supported-cities",
+    "category": "getting_started",
+    "title": "VTG funziona in tutte le città?",
+    "content": "VTG può utilizzare la posizione e i dati disponibili in molte città e paesi. La quantità di contenuti può variare in base alla località.",
+    "language_code": "it",
+    "keywords": [
+      "VTG",
+      "funziona",
+      "tutte",
+      "città",
+      "supported",
+      "cities"
+    ],
+    "is_active": true,
+    "sort_order": 4
+  },
+  {
+    "slug": "supported-cities",
+    "category": "getting_started",
+    "title": "¿VTG funciona en todas las ciudades?",
+    "content": "VTG puede utilizar la ubicación y los datos disponibles en muchas ciudades y países. La cantidad de contenido disponible puede variar según el lugar.",
+    "language_code": "es",
+    "keywords": [
+      "VTG",
+      "funciona",
+      "todas",
+      "las",
+      "supported",
+      "cities"
+    ],
+    "is_active": true,
+    "sort_order": 4
+  },
+  {
+    "slug": "supported-cities",
+    "category": "getting_started",
+    "title": "Работает ли VTG во всех городах?",
+    "content": "VTG может использовать данные о местоположении и доступную информацию во многих городах и странах. Объём доступного контента зависит от конкретного места.",
+    "language_code": "ru",
+    "keywords": [
+      "Работает",
+      "VTG",
+      "всех",
+      "городах",
+      "supported",
+      "cities"
+    ],
+    "is_active": true,
+    "sort_order": 4
+  },
+  {
+    "slug": "supported-cities",
+    "category": "getting_started",
+    "title": "VTG 可以在所有城市使用吗？",
+    "content": "VTG 可以利用不同城市和国家的定位信息及可用数据。不同地点可提供的内容数量可能有所不同。",
+    "language_code": "zh",
+    "keywords": [
+      "VTG",
+      "可以在所有城市使用吗",
+      "supported",
+      "cities",
+      "入门",
+      "常见问题"
+    ],
+    "is_active": true,
+    "sort_order": 4
+  },
+  {
+    "slug": "supported-cities",
+    "category": "getting_started",
+    "title": "क्या VTG सभी शहरों में काम करता है?",
+    "content": "VTG कई शहरों और देशों में उपलब्ध स्थान और डेटा का उपयोग कर सकता है। उपलब्ध सामग्री की मात्रा स्थान के अनुसार अलग हो सकती है।",
+    "language_code": "hi",
+    "keywords": [
+      "VTG",
+      "शहर",
+      "करत",
+      "supported",
+      "cities",
+      "शुरुआत"
+    ],
+    "is_active": true,
+    "sort_order": 4
+  },
+  {
+    "slug": "supported-cities",
+    "category": "getting_started",
+    "title": "هل يعمل VTG في جميع المدن؟",
+    "content": "يمكن لـ VTG استخدام الموقع والبيانات المتاحة في مدن ودول مختلفة، وقد يختلف مقدار المحتوى المتاح من مكان إلى آخر.",
+    "language_code": "ar",
+    "keywords": [
+      "يعمل",
+      "VTG",
+      "جميع",
+      "المدن",
+      "supported",
+      "cities"
+    ],
+    "is_active": true,
+    "sort_order": 4
+  },
+  {
+    "slug": "location-usage",
+    "category": "location",
+    "title": "Da li VTG koristi moju trenutnu lokaciju?",
+    "content": "Da. Funkcije kao što su „Blizu mene“, navigacija i Live Tour mogu koristiti lokaciju telefona ako korisnik odobri potrebnu dozvolu.",
+    "language_code": "sr",
+    "keywords": [
+      "VTG",
+      "koristi",
+      "moju",
+      "trenutnu",
+      "location",
+      "usage"
+    ],
+    "is_active": true,
+    "sort_order": 5
+  },
+  {
+    "slug": "location-usage",
+    "category": "location",
+    "title": "Does VTG use my current location?",
+    "content": "Yes. Features such as Nearby, navigation and Live Tour may use your phone's location when you grant the required permission.",
+    "language_code": "en",
+    "keywords": [
+      "Does",
+      "VTG",
+      "use",
+      "current",
+      "location",
+      "usage"
+    ],
+    "is_active": true,
+    "sort_order": 5
+  },
+  {
+    "slug": "location-usage",
+    "category": "location",
+    "title": "Verwendet VTG meinen aktuellen Standort?",
+    "content": "Ja. Funktionen wie „In meiner Nähe“, Navigation und Live Tour können den Standort Ihres Telefons verwenden, wenn Sie die erforderliche Berechtigung erteilen.",
+    "language_code": "de",
+    "keywords": [
+      "Verwendet",
+      "VTG",
+      "meinen",
+      "aktuellen",
+      "location",
+      "usage"
+    ],
+    "is_active": true,
+    "sort_order": 5
+  },
+  {
+    "slug": "location-usage",
+    "category": "location",
+    "title": "VTG utilise-t-il ma position actuelle ?",
+    "content": "Oui. Des fonctions telles que « À proximité », la navigation et Live Tour peuvent utiliser la position du téléphone si vous accordez l'autorisation nécessaire.",
+    "language_code": "fr",
+    "keywords": [
+      "VTG",
+      "utilise",
+      "position",
+      "actuelle",
+      "location",
+      "usage"
+    ],
+    "is_active": true,
+    "sort_order": 5
+  },
+  {
+    "slug": "location-usage",
+    "category": "location",
+    "title": "VTG utilizza la mia posizione attuale?",
+    "content": "Sì. Funzioni come “Nelle vicinanze”, navigazione e Live Tour possono utilizzare la posizione del telefono se concedi l'autorizzazione necessaria.",
+    "language_code": "it",
+    "keywords": [
+      "VTG",
+      "utilizza",
+      "mia",
+      "posizione",
+      "location",
+      "usage"
+    ],
+    "is_active": true,
+    "sort_order": 5
+  },
+  {
+    "slug": "location-usage",
+    "category": "location",
+    "title": "¿VTG utiliza mi ubicación actual?",
+    "content": "Sí. Funciones como «Cerca de mí», la navegación y Live Tour pueden utilizar la ubicación del teléfono si concedas el permiso necesario.",
+    "language_code": "es",
+    "keywords": [
+      "VTG",
+      "utiliza",
+      "ubicación",
+      "actual",
+      "location",
+      "usage"
+    ],
+    "is_active": true,
+    "sort_order": 5
+  },
+  {
+    "slug": "location-usage",
+    "category": "location",
+    "title": "Использует ли VTG моё текущее местоположение?",
+    "content": "Да. Такие функции, как «Рядом со мной», навигация и Live Tour, могут использовать местоположение телефона, если вы предоставили необходимое разрешение.",
+    "language_code": "ru",
+    "keywords": [
+      "Использует",
+      "VTG",
+      "моё",
+      "текущее",
+      "location",
+      "usage"
+    ],
+    "is_active": true,
+    "sort_order": 5
+  },
+  {
+    "slug": "location-usage",
+    "category": "location",
+    "title": "VTG 会使用我的当前位置吗？",
+    "content": "会。在您授予所需权限后，“附近”、导航和 Live Tour 等功能可以使用手机的位置。",
+    "language_code": "zh",
+    "keywords": [
+      "VTG",
+      "会使用我的当前位置吗",
+      "location",
+      "usage",
+      "位置",
+      "常见问题"
+    ],
+    "is_active": true,
+    "sort_order": 5
+  },
+  {
+    "slug": "location-usage",
+    "category": "location",
+    "title": "क्या VTG मेरी वर्तमान लोकेशन का उपयोग करता है?",
+    "content": "हाँ। “मेरे पास”, नेविगेशन और Live Tour जैसी सुविधाएँ आवश्यक अनुमति मिलने पर आपके फ़ोन की लोकेशन का उपयोग कर सकती हैं।",
+    "language_code": "hi",
+    "keywords": [
+      "VTG",
+      "उपय",
+      "करत",
+      "location",
+      "usage",
+      "लोकेशन"
+    ],
+    "is_active": true,
+    "sort_order": 5
+  },
+  {
+    "slug": "location-usage",
+    "category": "location",
+    "title": "هل يستخدم VTG موقعي الحالي؟",
+    "content": "نعم. يمكن لميزات مثل «بالقرب مني» والملاحة وLive Tour استخدام موقع الهاتف إذا منحت الإذن المطلوب.",
+    "language_code": "ar",
+    "keywords": [
+      "يستخدم",
+      "VTG",
+      "موقعي",
+      "الحالي",
+      "location",
+      "usage"
+    ],
+    "is_active": true,
+    "sort_order": 5
+  },
+  {
+    "slug": "create-tour",
+    "category": "guide",
+    "title": "Kako napraviti turističku turu?",
+    "content": "Otvorite „Vodič“, izaberite grad i interesovanja, a VTG će predložiti odgovarajuće lokacije koje možete uključiti u turu.",
+    "language_code": "sr",
+    "keywords": [
+      "Kako",
+      "napraviti",
+      "turističku",
+      "turu",
+      "create",
+      "tour"
+    ],
+    "is_active": true,
+    "sort_order": 6
+  },
+  {
+    "slug": "create-tour",
+    "category": "guide",
+    "title": "How do I create a sightseeing tour?",
+    "content": "Open Guide, choose a city and your interests, and VTG will suggest suitable places that you can include in your tour.",
+    "language_code": "en",
+    "keywords": [
+      "How",
+      "create",
+      "sightseeing",
+      "tour",
+      "guide",
+      "faq"
+    ],
+    "is_active": true,
+    "sort_order": 6
+  },
+  {
+    "slug": "create-tour",
+    "category": "guide",
+    "title": "Wie erstelle ich eine Besichtigungstour?",
+    "content": "Öffnen Sie den „Guide“, wählen Sie eine Stadt und Ihre Interessen aus. VTG schlägt anschließend passende Orte für Ihre Tour vor.",
+    "language_code": "de",
+    "keywords": [
+      "Wie",
+      "erstelle",
+      "ich",
+      "eine",
+      "create",
+      "tour"
+    ],
+    "is_active": true,
+    "sort_order": 6
+  },
+  {
+    "slug": "create-tour",
+    "category": "guide",
+    "title": "Comment créer un circuit touristique ?",
+    "content": "Ouvrez le Guide, choisissez une ville et vos centres d'intérêt. VTG vous proposera alors des lieux adaptés à ajouter à votre circuit.",
+    "language_code": "fr",
+    "keywords": [
+      "Comment",
+      "créer",
+      "circuit",
+      "touristique",
+      "create",
+      "tour"
+    ],
+    "is_active": true,
+    "sort_order": 6
+  },
+  {
+    "slug": "create-tour",
+    "category": "guide",
+    "title": "Come posso creare un itinerario turistico?",
+    "content": "Apri la Guida, scegli una città e i tuoi interessi. VTG proporrà luoghi adatti da includere nell'itinerario.",
+    "language_code": "it",
+    "keywords": [
+      "Come",
+      "posso",
+      "creare",
+      "itinerario",
+      "create",
+      "tour"
+    ],
+    "is_active": true,
+    "sort_order": 6
+  },
+  {
+    "slug": "create-tour",
+    "category": "guide",
+    "title": "¿Cómo creo un recorrido turístico?",
+    "content": "Abre la Guía, selecciona una ciudad y tus intereses. VTG propondrá lugares adecuados que puedes incluir en el recorrido.",
+    "language_code": "es",
+    "keywords": [
+      "Cómo",
+      "creo",
+      "recorrido",
+      "turístico",
+      "create",
+      "tour"
+    ],
+    "is_active": true,
+    "sort_order": 6
+  },
+  {
+    "slug": "create-tour",
+    "category": "guide",
+    "title": "Как создать туристический маршрут?",
+    "content": "Откройте «Гид», выберите город и интересующие вас темы. VTG предложит подходящие места, которые можно включить в маршрут.",
+    "language_code": "ru",
+    "keywords": [
+      "Как",
+      "создать",
+      "туристический",
+      "маршрут",
+      "create",
+      "tour"
+    ],
+    "is_active": true,
+    "sort_order": 6
+  },
+  {
+    "slug": "create-tour",
+    "category": "guide",
+    "title": "如何创建游览路线？",
+    "content": "打开“向导”，选择城市和您的兴趣，VTG 会推荐适合加入路线的地点。",
+    "language_code": "zh",
+    "keywords": [
+      "如何创建游览路线",
+      "create",
+      "tour",
+      "向导",
+      "常见问题",
+      "帮助"
+    ],
+    "is_active": true,
+    "sort_order": 6
+  },
+  {
+    "slug": "create-tour",
+    "category": "guide",
+    "title": "पर्यटन टूर कैसे बनाएं?",
+    "content": "“गाइड” खोलें, शहर और अपनी रुचियाँ चुनें। VTG आपके टूर में शामिल करने के लिए उपयुक्त स्थान सुझाएगा।",
+    "language_code": "hi",
+    "keywords": [
+      "यटन",
+      "create",
+      "tour",
+      "गाइड",
+      "प्रश्न",
+      "मदद"
+    ],
+    "is_active": true,
+    "sort_order": 6
+  },
+  {
+    "slug": "create-tour",
+    "category": "guide",
+    "title": "كيف أنشئ جولة سياحية؟",
+    "content": "افتح «الدليل»، واختر المدينة واهتماماتك، وسيقترح VTG أماكن مناسبة يمكنك إضافتها إلى جولتك.",
+    "language_code": "ar",
+    "keywords": [
+      "كيف",
+      "أنشئ",
+      "جولة",
+      "سياحية",
+      "create",
+      "tour"
+    ],
+    "is_active": true,
+    "sort_order": 6
+  },
+  {
+    "slug": "tour-selection",
+    "category": "guide",
+    "title": "Kako VTG bira mesta za turu?",
+    "content": "VTG bira mesta prema značaju, popularnosti, interesovanjima korisnika, udaljenosti i drugim relevantnim podacima. Izbor nije zamišljen kao nasumičan.",
+    "language_code": "sr",
+    "keywords": [
+      "Kako",
+      "VTG",
+      "bira",
+      "mesta",
+      "tour",
+      "selection"
+    ],
+    "is_active": true,
+    "sort_order": 7
+  },
+  {
+    "slug": "tour-selection",
+    "category": "guide",
+    "title": "How does VTG choose places for a tour?",
+    "content": "VTG selects places based on significance, popularity, your interests, distance and other relevant information. The selection is not intended to be random.",
+    "language_code": "en",
+    "keywords": [
+      "How",
+      "does",
+      "VTG",
+      "choose",
+      "tour",
+      "selection"
+    ],
+    "is_active": true,
+    "sort_order": 7
+  },
+  {
+    "slug": "tour-selection",
+    "category": "guide",
+    "title": "Wie wählt VTG Orte für eine Tour aus?",
+    "content": "VTG berücksichtigt Bedeutung, Beliebtheit, Ihre Interessen, Entfernung und weitere relevante Daten. Die Auswahl erfolgt nicht zufällig.",
+    "language_code": "de",
+    "keywords": [
+      "Wie",
+      "wählt",
+      "VTG",
+      "Orte",
+      "tour",
+      "selection"
+    ],
+    "is_active": true,
+    "sort_order": 7
+  },
+  {
+    "slug": "tour-selection",
+    "category": "guide",
+    "title": "Comment VTG choisit-il les lieux d'un circuit ?",
+    "content": "VTG tient compte de l'importance des lieux, de leur popularité, de vos centres d'intérêt, de la distance et d'autres données pertinentes. La sélection n'est pas aléatoire.",
+    "language_code": "fr",
+    "keywords": [
+      "Comment",
+      "VTG",
+      "choisit",
+      "les",
+      "tour",
+      "selection"
+    ],
+    "is_active": true,
+    "sort_order": 7
+  },
+  {
+    "slug": "tour-selection",
+    "category": "guide",
+    "title": "Come sceglie VTG i luoghi per un itinerario?",
+    "content": "VTG considera importanza, popolarità, interessi dell'utente, distanza e altri dati rilevanti. La selezione non è casuale.",
+    "language_code": "it",
+    "keywords": [
+      "Come",
+      "sceglie",
+      "VTG",
+      "luoghi",
+      "tour",
+      "selection"
+    ],
+    "is_active": true,
+    "sort_order": 7
+  },
+  {
+    "slug": "tour-selection",
+    "category": "guide",
+    "title": "¿Cómo elige VTG los lugares de un recorrido?",
+    "content": "VTG tiene en cuenta la importancia, popularidad, intereses del usuario, distancia y otros datos relevantes. La selección no es aleatoria.",
+    "language_code": "es",
+    "keywords": [
+      "Cómo",
+      "elige",
+      "VTG",
+      "los",
+      "tour",
+      "selection"
+    ],
+    "is_active": true,
+    "sort_order": 7
+  },
+  {
+    "slug": "tour-selection",
+    "category": "guide",
+    "title": "Как VTG выбирает места для маршрута?",
+    "content": "VTG учитывает значимость, популярность, ваши интересы, расстояние и другие данные. Выбор не является случайным.",
+    "language_code": "ru",
+    "keywords": [
+      "Как",
+      "VTG",
+      "выбирает",
+      "места",
+      "tour",
+      "selection"
+    ],
+    "is_active": true,
+    "sort_order": 7
+  },
+  {
+    "slug": "tour-selection",
+    "category": "guide",
+    "title": "VTG 如何选择路线中的地点？",
+    "content": "VTG 会根据地点的重要性、受欢迎程度、您的兴趣、距离以及其他相关信息进行选择，而不是随机推荐。",
+    "language_code": "zh",
+    "keywords": [
+      "VTG",
+      "如何选择路线中的地点",
+      "tour",
+      "selection",
+      "向导",
+      "常见问题"
+    ],
+    "is_active": true,
+    "sort_order": 7
+  },
+  {
+    "slug": "tour-selection",
+    "category": "guide",
+    "title": "VTG टूर के लिए स्थान कैसे चुनता है?",
+    "content": "VTG महत्व, लोकप्रियता, आपकी रुचियों, दूरी और अन्य प्रासंगिक जानकारी के आधार पर स्थान चुनता है। चयन यादृच्छिक नहीं होता।",
+    "language_code": "hi",
+    "keywords": [
+      "VTG",
+      "tour",
+      "selection",
+      "गाइड",
+      "प्रश्न",
+      "मदद"
+    ],
+    "is_active": true,
+    "sort_order": 7
+  },
+  {
+    "slug": "tour-selection",
+    "category": "guide",
+    "title": "كيف يختار VTG أماكن الجولة؟",
+    "content": "يختار VTG الأماكن وفقًا لأهميتها وشعبيتها واهتمامات المستخدم والمسافة وغيرها من البيانات ذات الصلة، ولا يتم الاختيار عشوائيًا.",
+    "language_code": "ar",
+    "keywords": [
+      "كيف",
+      "يختار",
+      "VTG",
+      "أماكن",
+      "tour",
+      "selection"
+    ],
+    "is_active": true,
+    "sort_order": 7
+  },
+  {
+    "slug": "remove-poi",
+    "category": "guide",
+    "title": "Mogu li da izbacim neko mesto iz predložene ture?",
+    "content": "Kada je ova funkcija dostupna na konkretnom ekranu, korisnik može prilagoditi izbor lokacija pre ili tokom pripreme ture.",
+    "language_code": "sr",
+    "keywords": [
+      "Mogu",
+      "izbacim",
+      "neko",
+      "mesto",
+      "remove",
+      "poi"
+    ],
+    "is_active": true,
+    "sort_order": 8
+  },
+  {
+    "slug": "remove-poi",
+    "category": "guide",
+    "title": "Can I remove a place from a suggested tour?",
+    "content": "When this option is available on the relevant screen, you can adjust the selected places before or while preparing the tour.",
+    "language_code": "en",
+    "keywords": [
+      "Can",
+      "remove",
+      "place",
+      "from",
+      "poi",
+      "guide"
+    ],
+    "is_active": true,
+    "sort_order": 8
+  },
+  {
+    "slug": "remove-poi",
+    "category": "guide",
+    "title": "Kann ich einen Ort aus einer vorgeschlagenen Tour entfernen?",
+    "content": "Wenn diese Funktion auf dem jeweiligen Bildschirm verfügbar ist, können Sie die ausgewählten Orte vor oder während der Tourvorbereitung anpassen.",
+    "language_code": "de",
+    "keywords": [
+      "Kann",
+      "ich",
+      "einen",
+      "Ort",
+      "remove",
+      "poi"
+    ],
+    "is_active": true,
+    "sort_order": 8
+  },
+  {
+    "slug": "remove-poi",
+    "category": "guide",
+    "title": "Puis-je retirer un lieu d'un circuit proposé ?",
+    "content": "Lorsque cette option est disponible sur l'écran concerné, vous pouvez modifier la sélection des lieux avant ou pendant la préparation du circuit.",
+    "language_code": "fr",
+    "keywords": [
+      "Puis",
+      "retirer",
+      "lieu",
+      "circuit",
+      "remove",
+      "poi"
+    ],
+    "is_active": true,
+    "sort_order": 8
+  },
+  {
+    "slug": "remove-poi",
+    "category": "guide",
+    "title": "Posso rimuovere un luogo dall'itinerario proposto?",
+    "content": "Quando l'opzione è disponibile nella schermata relativa, puoi modificare la selezione dei luoghi prima o durante la preparazione dell'itinerario.",
+    "language_code": "it",
+    "keywords": [
+      "Posso",
+      "rimuovere",
+      "luogo",
+      "dall",
+      "remove",
+      "poi"
+    ],
+    "is_active": true,
+    "sort_order": 8
+  },
+  {
+    "slug": "remove-poi",
+    "category": "guide",
+    "title": "¿Puedo eliminar un lugar del recorrido propuesto?",
+    "content": "Cuando esta opción está disponible en la pantalla correspondiente, puedes modificar la selección de lugares antes o durante la preparación del recorrido.",
+    "language_code": "es",
+    "keywords": [
+      "Puedo",
+      "eliminar",
+      "lugar",
+      "del",
+      "remove",
+      "poi"
+    ],
+    "is_active": true,
+    "sort_order": 8
+  },
+  {
+    "slug": "remove-poi",
+    "category": "guide",
+    "title": "Можно ли удалить место из предложенного маршрута?",
+    "content": "Если эта функция доступна на соответствующем экране, вы можете изменить выбранные места до или во время подготовки маршрута.",
+    "language_code": "ru",
+    "keywords": [
+      "Можно",
+      "удалить",
+      "место",
+      "предложенного",
+      "remove",
+      "poi"
+    ],
+    "is_active": true,
+    "sort_order": 8
+  },
+  {
+    "slug": "remove-poi",
+    "category": "guide",
+    "title": "可以从推荐路线中删除某个地点吗？",
+    "content": "如果相关页面提供此功能，您可以在准备路线之前或过程中调整所选地点。",
+    "language_code": "zh",
+    "keywords": [
+      "可以从推荐路线中删除某个地点吗",
+      "remove",
+      "poi",
+      "向导",
+      "常见问题",
+      "帮助"
+    ],
+    "is_active": true,
+    "sort_order": 8
+  },
+  {
+    "slug": "remove-poi",
+    "category": "guide",
+    "title": "क्या मैं सुझाए गए टूर से कोई स्थान हटा सकता हूँ?",
+    "content": "यदि संबंधित स्क्रीन पर यह विकल्प उपलब्ध है, तो आप टूर तैयार करने से पहले या उसके दौरान चुने गए स्थानों को बदल सकते हैं।",
+    "language_code": "hi",
+    "keywords": [
+      "सकत",
+      "remove",
+      "poi",
+      "गाइड",
+      "प्रश्न",
+      "मदद"
+    ],
+    "is_active": true,
+    "sort_order": 8
+  },
+  {
+    "slug": "remove-poi",
+    "category": "guide",
+    "title": "هل يمكنني إزالة مكان من الجولة المقترحة؟",
+    "content": "إذا كانت هذه الميزة متاحة في الشاشة المعنية، يمكنك تعديل الأماكن المختارة قبل إعداد الجولة أو أثناء إعدادها.",
+    "language_code": "ar",
+    "keywords": [
+      "يمكنني",
+      "إزالة",
+      "مكان",
+      "الجولة",
+      "remove",
+      "poi"
+    ],
+    "is_active": true,
+    "sort_order": 8
+  },
+  {
+    "slug": "suggested-order",
+    "category": "guide",
+    "title": "Šta znači „Predloženi redosled“?",
+    "content": "To je redosled obilaska koji VTG predlaže na osnovu lokacija u turi, njihove međusobne udaljenosti i trenutnog statusa obilaska.",
+    "language_code": "sr",
+    "keywords": [
+      "Šta",
+      "znači",
+      "Predloženi",
+      "redosled",
+      "suggested",
+      "order"
+    ],
+    "is_active": true,
+    "sort_order": 9
+  },
+  {
+    "slug": "suggested-order",
+    "category": "guide",
+    "title": "What does “Suggested order” mean?",
+    "content": "It is the visiting order suggested by VTG based on the places in the tour, the distances between them and the current progress of the tour.",
+    "language_code": "en",
+    "keywords": [
+      "What",
+      "does",
+      "Suggested",
+      "order",
+      "suggested",
+      "guide"
+    ],
+    "is_active": true,
+    "sort_order": 9
+  },
+  {
+    "slug": "suggested-order",
+    "category": "guide",
+    "title": "Was bedeutet „Vorgeschlagene Reihenfolge“?",
+    "content": "Das ist die von VTG empfohlene Besuchsreihenfolge, basierend auf den Orten der Tour, deren Entfernungen zueinander und dem aktuellen Tourfortschritt.",
+    "language_code": "de",
+    "keywords": [
+      "Was",
+      "bedeutet",
+      "Vorgeschlagene",
+      "Reihenfolge",
+      "suggested",
+      "order"
+    ],
+    "is_active": true,
+    "sort_order": 9
+  },
+  {
+    "slug": "suggested-order",
+    "category": "guide",
+    "title": "Que signifie « Ordre suggéré » ?",
+    "content": "Il s'agit de l'ordre de visite proposé par VTG selon les lieux du circuit, les distances entre eux et l'avancement actuel de la visite.",
+    "language_code": "fr",
+    "keywords": [
+      "Que",
+      "signifie",
+      "Ordre",
+      "suggéré",
+      "suggested",
+      "order"
+    ],
+    "is_active": true,
+    "sort_order": 9
+  },
+  {
+    "slug": "suggested-order",
+    "category": "guide",
+    "title": "Cosa significa “Ordine suggerito”?",
+    "content": "È l'ordine di visita proposto da VTG in base ai luoghi dell'itinerario, alle distanze tra essi e allo stato attuale della visita.",
+    "language_code": "it",
+    "keywords": [
+      "Cosa",
+      "significa",
+      "Ordine",
+      "suggerito",
+      "suggested",
+      "order"
+    ],
+    "is_active": true,
+    "sort_order": 9
+  },
+  {
+    "slug": "suggested-order",
+    "category": "guide",
+    "title": "¿Qué significa «Orden sugerido»?",
+    "content": "Es el orden de visita que propone VTG según los lugares del recorrido, las distancias entre ellos y el progreso actual del recorrido.",
+    "language_code": "es",
+    "keywords": [
+      "Qué",
+      "significa",
+      "Orden",
+      "sugerido",
+      "suggested",
+      "order"
+    ],
+    "is_active": true,
+    "sort_order": 9
+  },
+  {
+    "slug": "suggested-order",
+    "category": "guide",
+    "title": "Что означает «Рекомендуемый порядок»?",
+    "content": "Это порядок посещения, который VTG предлагает с учётом мест маршрута, расстояний между ними и текущего прогресса поездки.",
+    "language_code": "ru",
+    "keywords": [
+      "Что",
+      "означает",
+      "Рекомендуемый",
+      "порядок",
+      "suggested",
+      "order"
+    ],
+    "is_active": true,
+    "sort_order": 9
+  },
+  {
+    "slug": "suggested-order",
+    "category": "guide",
+    "title": "“推荐顺序”是什么意思？",
+    "content": "这是 VTG 根据路线中的地点、地点之间的距离以及当前游览进度推荐的访问顺序。",
+    "language_code": "zh",
+    "keywords": [
+      "推荐顺序",
+      "是什么意思",
+      "suggested",
+      "order",
+      "向导",
+      "常见问题"
+    ],
+    "is_active": true,
+    "sort_order": 9
+  },
+  {
+    "slug": "suggested-order",
+    "category": "guide",
+    "title": "“सुझाया गया क्रम” क्या है?",
+    "content": "यह VTG द्वारा सुझाया गया घूमने का क्रम है, जो टूर के स्थानों, उनके बीच की दूरी और वर्तमान प्रगति के आधार पर तय होता है।",
+    "language_code": "hi",
+    "keywords": [
+      "suggested",
+      "order",
+      "गाइड",
+      "प्रश्न",
+      "मदद"
+    ],
+    "is_active": true,
+    "sort_order": 9
+  },
+  {
+    "slug": "suggested-order",
+    "category": "guide",
+    "title": "ماذا يعني «الترتيب المقترح»؟",
+    "content": "هو ترتيب الزيارة الذي يقترحه VTG استنادًا إلى أماكن الجولة والمسافات بينها وحالة تقدم الجولة الحالية.",
+    "language_code": "ar",
+    "keywords": [
+      "ماذا",
+      "يعني",
+      "الترتيب",
+      "المقترح",
+      "suggested",
+      "order"
+    ],
+    "is_active": true,
+    "sort_order": 9
+  },
+  {
+    "slug": "live-tour",
+    "category": "live_tour",
+    "title": "Šta je Live Tour?",
+    "content": "Live Tour prati napredovanje kroz turu i prikazuje informacije o trenutnoj ili sledećoj lokaciji, uključujući dostupnu audio naraciju.",
+    "language_code": "sr",
+    "keywords": [
+      "Šta",
+      "Live",
+      "Tour",
+      "live",
+      "tour",
+      "živa tura"
+    ],
+    "is_active": true,
+    "sort_order": 10
+  },
+  {
+    "slug": "live-tour",
+    "category": "live_tour",
+    "title": "What is Live Tour?",
+    "content": "Live Tour follows your progress through the tour and displays information about the current or next location, including available audio narration.",
+    "language_code": "en",
+    "keywords": [
+      "What",
+      "Live",
+      "Tour",
+      "live",
+      "tour",
+      "live tour"
+    ],
+    "is_active": true,
+    "sort_order": 10
+  },
+  {
+    "slug": "live-tour",
+    "category": "live_tour",
+    "title": "Was ist Live Tour?",
+    "content": "Live Tour verfolgt Ihren Fortschritt während der Tour und zeigt Informationen zum aktuellen oder nächsten Ort einschließlich verfügbarer Audiokommentare.",
+    "language_code": "de",
+    "keywords": [
+      "Was",
+      "ist",
+      "Live",
+      "Tour",
+      "live",
+      "tour"
+    ],
+    "is_active": true,
+    "sort_order": 10
+  },
+  {
+    "slug": "live-tour",
+    "category": "live_tour",
+    "title": "Qu'est-ce que Live Tour ?",
+    "content": "Live Tour suit votre progression pendant le circuit et affiche des informations sur le lieu actuel ou suivant, y compris les commentaires audio disponibles.",
+    "language_code": "fr",
+    "keywords": [
+      "est",
+      "que",
+      "Live",
+      "Tour",
+      "live",
+      "tour"
+    ],
+    "is_active": true,
+    "sort_order": 10
+  },
+  {
+    "slug": "live-tour",
+    "category": "live_tour",
+    "title": "Che cos'è Live Tour?",
+    "content": "Live Tour segue l'avanzamento dell'itinerario e mostra informazioni sul luogo attuale o successivo, inclusa la narrazione audio disponibile.",
+    "language_code": "it",
+    "keywords": [
+      "Che",
+      "cos",
+      "Live",
+      "Tour",
+      "live",
+      "tour"
+    ],
+    "is_active": true,
+    "sort_order": 10
+  },
+  {
+    "slug": "live-tour",
+    "category": "live_tour",
+    "title": "¿Qué es Live Tour?",
+    "content": "Live Tour sigue el progreso del recorrido y muestra información sobre la ubicación actual o siguiente, incluida la narración de audio disponible.",
+    "language_code": "es",
+    "keywords": [
+      "Qué",
+      "Live",
+      "Tour",
+      "live",
+      "tour",
+      "Live Tour"
+    ],
+    "is_active": true,
+    "sort_order": 10
+  },
+  {
+    "slug": "live-tour",
+    "category": "live_tour",
+    "title": "Что такое Live Tour?",
+    "content": "Live Tour отслеживает ваш прогресс по маршруту и показывает информацию о текущем или следующем месте, включая доступный аудиорассказ.",
+    "language_code": "ru",
+    "keywords": [
+      "Что",
+      "такое",
+      "Live",
+      "Tour",
+      "live",
+      "tour"
+    ],
+    "is_active": true,
+    "sort_order": 10
+  },
+  {
+    "slug": "live-tour",
+    "category": "live_tour",
+    "title": "什么是 Live Tour？",
+    "content": "Live Tour 会跟踪您的游览进度，并显示当前或下一个地点的信息，包括可用的语音讲解。",
+    "language_code": "zh",
+    "keywords": [
+      "什么是",
+      "Live",
+      "Tour",
+      "live",
+      "tour",
+      "Live Tour"
+    ],
+    "is_active": true,
+    "sort_order": 10
+  },
+  {
+    "slug": "live-tour",
+    "category": "live_tour",
+    "title": "Live Tour क्या है?",
+    "content": "Live Tour आपके टूर की प्रगति को ट्रैक करता है और वर्तमान या अगले स्थान की जानकारी तथा उपलब्ध ऑडियो विवरण दिखाता है।",
+    "language_code": "hi",
+    "keywords": [
+      "Live",
+      "Tour",
+      "live",
+      "tour",
+      "Live Tour",
+      "प्रश्न"
+    ],
+    "is_active": true,
+    "sort_order": 10
+  },
+  {
+    "slug": "live-tour",
+    "category": "live_tour",
+    "title": "ما هو Live Tour؟",
+    "content": "يتابع Live Tour تقدمك خلال الجولة ويعرض معلومات عن الموقع الحالي أو التالي، بما في ذلك الشرح الصوتي المتاح.",
+    "language_code": "ar",
+    "keywords": [
+      "Live",
+      "Tour",
+      "live",
+      "tour",
+      "Live Tour",
+      "أسئلة"
+    ],
+    "is_active": true,
+    "sort_order": 10
+  },
+  {
+    "slug": "automatic-audio",
+    "category": "live_tour",
+    "title": "Da li VTG automatski pokreće audio kada stignem do znamenitosti?",
+    "content": "VTG može prepoznati da ste stigli blizu određene lokacije. Reprodukcija naracije se pokreće prema pravilima trenutne verzije aplikacije i dostupnim kontrolama na Live Tour ekranu.",
+    "language_code": "sr",
+    "keywords": [
+      "VTG",
+      "automatski",
+      "pokreće",
+      "audio",
+      "automatic",
+      "živa tura"
+    ],
+    "is_active": true,
+    "sort_order": 11
+  },
+  {
+    "slug": "automatic-audio",
+    "category": "live_tour",
+    "title": "Does VTG automatically play audio when I reach an attraction?",
+    "content": "VTG can detect when you are near a location. Audio playback follows the behavior of the current app version and the controls available on the Live Tour screen.",
+    "language_code": "en",
+    "keywords": [
+      "Does",
+      "VTG",
+      "automatically",
+      "play",
+      "automatic",
+      "audio"
+    ],
+    "is_active": true,
+    "sort_order": 11
+  },
+  {
+    "slug": "automatic-audio",
+    "category": "live_tour",
+    "title": "Startet VTG automatisch die Audiowiedergabe, wenn ich eine Sehenswürdigkeit erreiche?",
+    "content": "VTG kann erkennen, wenn Sie sich in der Nähe eines Ortes befinden. Die Audiowiedergabe richtet sich nach der aktuellen App-Version und den Bedienelementen im Live-Tour-Bildschirm.",
+    "language_code": "de",
+    "keywords": [
+      "Startet",
+      "VTG",
+      "automatisch",
+      "die",
+      "automatic",
+      "audio"
+    ],
+    "is_active": true,
+    "sort_order": 11
+  },
+  {
+    "slug": "automatic-audio",
+    "category": "live_tour",
+    "title": "VTG lance-t-il automatiquement l'audio lorsque j'arrive près d'un site ?",
+    "content": "VTG peut détecter votre arrivée à proximité d'un lieu. La lecture audio dépend du fonctionnement de la version actuelle et des commandes disponibles dans Live Tour.",
+    "language_code": "fr",
+    "keywords": [
+      "VTG",
+      "lance",
+      "automatiquement",
+      "audio",
+      "automatic",
+      "Live Tour"
+    ],
+    "is_active": true,
+    "sort_order": 11
+  },
+  {
+    "slug": "automatic-audio",
+    "category": "live_tour",
+    "title": "VTG avvia automaticamente l'audio quando arrivo a un'attrazione?",
+    "content": "VTG può rilevare quando ti trovi vicino a un luogo. La riproduzione audio dipende dalla versione corrente dell'app e dai controlli disponibili nella schermata Live Tour.",
+    "language_code": "it",
+    "keywords": [
+      "VTG",
+      "avvia",
+      "automaticamente",
+      "audio",
+      "automatic",
+      "Live Tour"
+    ],
+    "is_active": true,
+    "sort_order": 11
+  },
+  {
+    "slug": "automatic-audio",
+    "category": "live_tour",
+    "title": "¿VTG reproduce el audio automáticamente al llegar a un lugar de interés?",
+    "content": "VTG puede detectar cuando estás cerca de un lugar. La reproducción depende del funcionamiento de la versión actual de la aplicación y de los controles de Live Tour.",
+    "language_code": "es",
+    "keywords": [
+      "VTG",
+      "reproduce",
+      "audio",
+      "automáticamente",
+      "automatic",
+      "Live Tour"
+    ],
+    "is_active": true,
+    "sort_order": 11
+  },
+  {
+    "slug": "automatic-audio",
+    "category": "live_tour",
+    "title": "Запускает ли VTG аудио автоматически при приближении к достопримечательности?",
+    "content": "VTG может определить, что вы находитесь рядом с объектом. Воспроизведение зависит от текущей версии приложения и элементов управления на экране Live Tour.",
+    "language_code": "ru",
+    "keywords": [
+      "Запускает",
+      "VTG",
+      "аудио",
+      "автоматически",
+      "automatic",
+      "audio"
+    ],
+    "is_active": true,
+    "sort_order": 11
+  },
+  {
+    "slug": "automatic-audio",
+    "category": "live_tour",
+    "title": "到达景点时，VTG 会自动播放语音吗？",
+    "content": "VTG 可以检测您是否已接近某个地点。语音播放方式取决于当前应用版本以及 Live Tour 页面提供的控制选项。",
+    "language_code": "zh",
+    "keywords": [
+      "到达景点时",
+      "VTG",
+      "会自动播放语音吗",
+      "automatic",
+      "audio",
+      "Live Tour"
+    ],
+    "is_active": true,
+    "sort_order": 11
+  },
+  {
+    "slug": "automatic-audio",
+    "category": "live_tour",
+    "title": "क्या किसी दर्शनीय स्थल पर पहुँचने पर VTG ऑडियो अपने आप चलाता है?",
+    "content": "VTG यह पहचान सकता है कि आप किसी स्थान के पास पहुँच गए हैं। ऑडियो प्लेबैक वर्तमान ऐप संस्करण और Live Tour स्क्रीन पर उपलब्ध नियंत्रणों के अनुसार काम करता है।",
+    "language_code": "hi",
+    "keywords": [
+      "VTG",
+      "अपन",
+      "automatic",
+      "audio",
+      "Live Tour",
+      "प्रश्न"
+    ],
+    "is_active": true,
+    "sort_order": 11
+  },
+  {
+    "slug": "automatic-audio",
+    "category": "live_tour",
+    "title": "هل يشغّل VTG الصوت تلقائيًا عند الوصول إلى معلم سياحي؟",
+    "content": "يستطيع VTG اكتشاف اقترابك من موقع معين. وتعتمد طريقة تشغيل الصوت على إصدار التطبيق الحالي وعناصر التحكم المتاحة في شاشة Live Tour.",
+    "language_code": "ar",
+    "keywords": [
+      "يشغ",
+      "VTG",
+      "الصوت",
+      "تلقائي",
+      "automatic",
+      "audio"
+    ],
+    "is_active": true,
+    "sort_order": 11
+  },
+  {
+    "slug": "narration-length",
+    "category": "audio",
+    "title": "Zašto neke lokacije imaju dužu, a neke kraću naraciju?",
+    "content": "Dužina naracije zavisi od vrste mesta. Istorijske znamenitosti, muzeji, tvrđave, spomenici i slične lokacije mogu imati detaljniju naraciju, dok parkovi, vidikovci i prirodne lokacije obično imaju kraći opis.",
+    "language_code": "sr",
+    "keywords": [
+      "Zašto",
+      "neke",
+      "lokacije",
+      "imaju",
+      "narration",
+      "length"
+    ],
+    "is_active": true,
+    "sort_order": 12
+  },
+  {
+    "slug": "narration-length",
+    "category": "audio",
+    "title": "Why do some places have longer narration than others?",
+    "content": "Narration length depends on the type of place. Historical attractions, museums, fortresses and monuments may have more detailed narration, while parks, viewpoints and natural locations usually have shorter descriptions.",
+    "language_code": "en",
+    "keywords": [
+      "Why",
+      "some",
+      "places",
+      "have",
+      "narration",
+      "length"
+    ],
+    "is_active": true,
+    "sort_order": 12
+  },
+  {
+    "slug": "narration-length",
+    "category": "audio",
+    "title": "Warum sind manche Audiokommentare länger als andere?",
+    "content": "Die Länge hängt von der Art des Ortes ab. Historische Sehenswürdigkeiten, Museen, Festungen und Denkmäler können ausführlichere Kommentare haben, während Parks, Aussichtspunkte und Naturorte meist kürzer beschrieben werden.",
+    "language_code": "de",
+    "keywords": [
+      "Warum",
+      "sind",
+      "manche",
+      "Audiokommentare",
+      "narration",
+      "length"
+    ],
+    "is_active": true,
+    "sort_order": 12
+  },
+  {
+    "slug": "narration-length",
+    "category": "audio",
+    "title": "Pourquoi certaines narrations sont-elles plus longues que d'autres ?",
+    "content": "La durée dépend du type de lieu. Les sites historiques, musées, forteresses et monuments peuvent avoir des commentaires plus détaillés, tandis que les parcs, points de vue et sites naturels ont généralement des descriptions plus courtes.",
+    "language_code": "fr",
+    "keywords": [
+      "Pourquoi",
+      "certaines",
+      "narrations",
+      "sont",
+      "narration",
+      "length"
+    ],
+    "is_active": true,
+    "sort_order": 12
+  },
+  {
+    "slug": "narration-length",
+    "category": "audio",
+    "title": "Perché alcune narrazioni sono più lunghe di altre?",
+    "content": "La durata dipende dal tipo di luogo. Attrazioni storiche, musei, fortezze e monumenti possono avere descrizioni più dettagliate, mentre parchi, punti panoramici e luoghi naturali hanno solitamente narrazioni più brevi.",
+    "language_code": "it",
+    "keywords": [
+      "Perché",
+      "alcune",
+      "narrazioni",
+      "sono",
+      "narration",
+      "length"
+    ],
+    "is_active": true,
+    "sort_order": 12
+  },
+  {
+    "slug": "narration-length",
+    "category": "audio",
+    "title": "¿Por qué algunas narraciones son más largas que otras?",
+    "content": "La duración depende del tipo de lugar. Los sitios históricos, museos, fortalezas y monumentos pueden tener explicaciones más detalladas, mientras que parques, miradores y lugares naturales suelen tener descripciones más breves.",
+    "language_code": "es",
+    "keywords": [
+      "Por",
+      "qué",
+      "algunas",
+      "narraciones",
+      "narration",
+      "length"
+    ],
+    "is_active": true,
+    "sort_order": 12
+  },
+  {
+    "slug": "narration-length",
+    "category": "audio",
+    "title": "Почему у одних мест рассказ длиннее, чем у других?",
+    "content": "Длина рассказа зависит от типа объекта. Исторические достопримечательности, музеи, крепости и памятники могут иметь более подробные описания, а парки, смотровые площадки и природные объекты — более короткие.",
+    "language_code": "ru",
+    "keywords": [
+      "Почему",
+      "одних",
+      "мест",
+      "рассказ",
+      "narration",
+      "length"
+    ],
+    "is_active": true,
+    "sort_order": 12
+  },
+  {
+    "slug": "narration-length",
+    "category": "audio",
+    "title": "为什么有些地点的讲解更长？",
+    "content": "讲解长度取决于地点类型。历史景点、博物馆、城堡和纪念碑通常会有更详细的讲解，而公园、观景点和自然景点通常较短。",
+    "language_code": "zh",
+    "keywords": [
+      "为什么有些地点的讲解更长",
+      "narration",
+      "length",
+      "音频",
+      "常见问题",
+      "帮助"
+    ],
+    "is_active": true,
+    "sort_order": 12
+  },
+  {
+    "slug": "narration-length",
+    "category": "audio",
+    "title": "कुछ स्थानों का ऑडियो विवरण लंबा और कुछ का छोटा क्यों होता है?",
+    "content": "विवरण की लंबाई स्थान के प्रकार पर निर्भर करती है। ऐतिहासिक स्थल, संग्रहालय, किले और स्मारक अधिक विस्तृत हो सकते हैं, जबकि पार्क, दृश्य स्थल और प्राकृतिक स्थानों का विवरण सामान्यतः छोटा होता है।",
+    "language_code": "hi",
+    "keywords": [
+      "वरण",
+      "narration",
+      "length",
+      "ऑडियो",
+      "प्रश्न",
+      "मदद"
+    ],
+    "is_active": true,
+    "sort_order": 12
+  },
+  {
+    "slug": "narration-length",
+    "category": "audio",
+    "title": "لماذا تكون مدة الشرح الصوتي أطول في بعض الأماكن؟",
+    "content": "تعتمد مدة الشرح على نوع المكان. فقد تحصل المعالم التاريخية والمتاحف والقلاع والنصب على شرح أكثر تفصيلًا، بينما تكون أوصاف الحدائق ونقاط المشاهدة والمواقع الطبيعية أقصر عادةً.",
+    "language_code": "ar",
+    "keywords": [
+      "لماذا",
+      "تكون",
+      "مدة",
+      "الشرح",
+      "narration",
+      "length"
+    ],
+    "is_active": true,
+    "sort_order": 12
+  },
+  {
+    "slug": "missing-audio",
+    "category": "audio",
+    "title": "Zašto neka mesta nemaju audio naraciju?",
+    "content": "Za određene kategorije, kao što su kupovina, hrana, noćni život i pojedine praktične usluge, audio naracija možda nije potrebna ili dostupna.",
+    "language_code": "sr",
+    "keywords": [
+      "Zašto",
+      "neka",
+      "mesta",
+      "nemaju",
+      "missing",
+      "audio"
+    ],
+    "is_active": true,
+    "sort_order": 13
+  },
+  {
+    "slug": "missing-audio",
+    "category": "audio",
+    "title": "Why do some places not have audio narration?",
+    "content": "Some categories, such as shopping, food, nightlife and certain practical services, may not require or provide audio narration.",
+    "language_code": "en",
+    "keywords": [
+      "Why",
+      "some",
+      "places",
+      "not",
+      "missing",
+      "audio"
+    ],
+    "is_active": true,
+    "sort_order": 13
+  },
+  {
+    "slug": "missing-audio",
+    "category": "audio",
+    "title": "Warum gibt es für manche Orte keinen Audiokommentar?",
+    "content": "Für bestimmte Kategorien wie Einkaufen, Essen, Nachtleben oder praktische Dienstleistungen ist möglicherweise kein Audiokommentar erforderlich oder verfügbar.",
+    "language_code": "de",
+    "keywords": [
+      "Warum",
+      "gibt",
+      "für",
+      "manche",
+      "missing",
+      "audio"
+    ],
+    "is_active": true,
+    "sort_order": 13
+  },
+  {
+    "slug": "missing-audio",
+    "category": "audio",
+    "title": "Pourquoi certains lieux n'ont-ils pas de narration audio ?",
+    "content": "Certaines catégories, comme les commerces, la restauration, la vie nocturne ou certains services pratiques, peuvent ne pas nécessiter ou proposer de narration audio.",
+    "language_code": "fr",
+    "keywords": [
+      "Pourquoi",
+      "certains",
+      "lieux",
+      "ont",
+      "missing",
+      "audio"
+    ],
+    "is_active": true,
+    "sort_order": 13
+  },
+  {
+    "slug": "missing-audio",
+    "category": "audio",
+    "title": "Perché alcuni luoghi non hanno una narrazione audio?",
+    "content": "Per alcune categorie, come shopping, ristorazione, vita notturna e determinati servizi pratici, la narrazione audio potrebbe non essere necessaria o disponibile.",
+    "language_code": "it",
+    "keywords": [
+      "Perché",
+      "alcuni",
+      "luoghi",
+      "non",
+      "missing",
+      "audio"
+    ],
+    "is_active": true,
+    "sort_order": 13
+  },
+  {
+    "slug": "missing-audio",
+    "category": "audio",
+    "title": "¿Por qué algunos lugares no tienen narración de audio?",
+    "content": "Algunas categorías, como compras, gastronomía, vida nocturna y determinados servicios prácticos, pueden no necesitar o no disponer de narración de audio.",
+    "language_code": "es",
+    "keywords": [
+      "Por",
+      "qué",
+      "algunos",
+      "lugares",
+      "missing",
+      "audio"
+    ],
+    "is_active": true,
+    "sort_order": 13
+  },
+  {
+    "slug": "missing-audio",
+    "category": "audio",
+    "title": "Почему для некоторых мест нет аудиорассказа?",
+    "content": "Для некоторых категорий, например магазинов, ресторанов, ночной жизни и практических услуг, аудиорассказ может быть не нужен или недоступен.",
+    "language_code": "ru",
+    "keywords": [
+      "Почему",
+      "для",
+      "некоторых",
+      "мест",
+      "missing",
+      "audio"
+    ],
+    "is_active": true,
+    "sort_order": 13
+  },
+  {
+    "slug": "missing-audio",
+    "category": "audio",
+    "title": "为什么有些地点没有语音讲解？",
+    "content": "对于购物、餐饮、夜生活以及部分实用服务类地点，可能不需要或暂未提供语音讲解。",
+    "language_code": "zh",
+    "keywords": [
+      "为什么有些地点没有语音讲解",
+      "missing",
+      "audio",
+      "音频",
+      "常见问题",
+      "帮助"
+    ],
+    "is_active": true,
+    "sort_order": 13
+  },
+  {
+    "slug": "missing-audio",
+    "category": "audio",
+    "title": "कुछ स्थानों पर ऑडियो विवरण क्यों नहीं होता?",
+    "content": "खरीदारी, भोजन, नाइटलाइफ़ और कुछ व्यावहारिक सेवाओं जैसी श्रेणियों में ऑडियो विवरण आवश्यक या उपलब्ध नहीं हो सकता।",
+    "language_code": "hi",
+    "keywords": [
+      "वरण",
+      "missing",
+      "audio",
+      "ऑडियो",
+      "प्रश्न",
+      "मदद"
+    ],
+    "is_active": true,
+    "sort_order": 13
+  },
+  {
+    "slug": "missing-audio",
+    "category": "audio",
+    "title": "لماذا لا يتوفر شرح صوتي لبعض الأماكن؟",
+    "content": "قد لا تحتاج بعض الفئات، مثل التسوق والطعام والحياة الليلية وبعض الخدمات العملية، إلى شرح صوتي أو قد لا يتوفر لها شرح.",
+    "language_code": "ar",
+    "keywords": [
+      "لماذا",
+      "يتوفر",
+      "شرح",
+      "صوتي",
+      "missing",
+      "audio"
+    ],
+    "is_active": true,
+    "sort_order": 13
+  },
+  {
+    "slug": "audio-not-playing",
+    "category": "audio",
+    "title": "Šta da radim ako se audio ne reprodukuje?",
+    "content": "Proverite internet vezu, jačinu zvuka, da li je audio prethodno preuzet i da li aplikacija ima potrebne dozvole. Ako problem ostane, koristite opciju „Prijavi problem“.",
+    "language_code": "sr",
+    "keywords": [
+      "Šta",
+      "radim",
+      "ako",
+      "audio",
+      "not",
+      "playing"
+    ],
+    "is_active": true,
+    "sort_order": 14
+  },
+  {
+    "slug": "audio-not-playing",
+    "category": "audio",
+    "title": "What should I do if audio does not play?",
+    "content": "Check your internet connection, volume, whether the audio was downloaded and whether the app has the required permissions. If the problem continues, use “Report a problem”.",
+    "language_code": "en",
+    "keywords": [
+      "What",
+      "should",
+      "audio",
+      "does",
+      "not",
+      "playing"
+    ],
+    "is_active": true,
+    "sort_order": 14
+  },
+  {
+    "slug": "audio-not-playing",
+    "category": "audio",
+    "title": "Was kann ich tun, wenn kein Audio abgespielt wird?",
+    "content": "Prüfen Sie Internetverbindung, Lautstärke, ob die Audiodatei heruntergeladen wurde und ob die App die erforderlichen Berechtigungen hat. Wenn das Problem bleibt, nutzen Sie „Problem melden“.",
+    "language_code": "de",
+    "keywords": [
+      "Was",
+      "kann",
+      "ich",
+      "tun",
+      "audio",
+      "not"
+    ],
+    "is_active": true,
+    "sort_order": 14
+  },
+  {
+    "slug": "audio-not-playing",
+    "category": "audio",
+    "title": "Que faire si l'audio ne se lit pas ?",
+    "content": "Vérifiez votre connexion Internet, le volume, si l'audio a été téléchargé et si l'application dispose des autorisations nécessaires. Si le problème persiste, utilisez « Signaler un problème ».",
+    "language_code": "fr",
+    "keywords": [
+      "Que",
+      "faire",
+      "audio",
+      "lit",
+      "not",
+      "playing"
+    ],
+    "is_active": true,
+    "sort_order": 14
+  },
+  {
+    "slug": "audio-not-playing",
+    "category": "audio",
+    "title": "Cosa devo fare se l'audio non viene riprodotto?",
+    "content": "Controlla la connessione Internet, il volume, se l'audio è stato scaricato e se l'app dispone delle autorizzazioni necessarie. Se il problema continua, usa “Segnala un problema”.",
+    "language_code": "it",
+    "keywords": [
+      "Cosa",
+      "devo",
+      "fare",
+      "audio",
+      "not",
+      "playing"
+    ],
+    "is_active": true,
+    "sort_order": 14
+  },
+  {
+    "slug": "audio-not-playing",
+    "category": "audio",
+    "title": "¿Qué debo hacer si el audio no se reproduce?",
+    "content": "Comprueba la conexión a Internet, el volumen, si el audio se descargó y si la aplicación tiene los permisos necesarios. Si el problema continúa, utiliza «Informar de un problema».",
+    "language_code": "es",
+    "keywords": [
+      "Qué",
+      "debo",
+      "hacer",
+      "audio",
+      "not",
+      "playing"
+    ],
+    "is_active": true,
+    "sort_order": 14
+  },
+  {
+    "slug": "audio-not-playing",
+    "category": "audio",
+    "title": "Что делать, если аудио не воспроизводится?",
+    "content": "Проверьте подключение к интернету, громкость, наличие загруженного аудио и необходимые разрешения приложения. Если проблема сохраняется, используйте «Сообщить о проблеме».",
+    "language_code": "ru",
+    "keywords": [
+      "Что",
+      "делать",
+      "если",
+      "аудио",
+      "audio",
+      "not"
+    ],
+    "is_active": true,
+    "sort_order": 14
+  },
+  {
+    "slug": "audio-not-playing",
+    "category": "audio",
+    "title": "如果语音无法播放怎么办？",
+    "content": "请检查网络连接、音量、语音文件是否已下载，以及应用是否获得所需权限。如果问题仍然存在，请使用“报告问题”。",
+    "language_code": "zh",
+    "keywords": [
+      "如果语音无法播放怎么办",
+      "audio",
+      "not",
+      "playing",
+      "音频",
+      "常见问题"
+    ],
+    "is_active": true,
+    "sort_order": 14
+  },
+  {
+    "slug": "audio-not-playing",
+    "category": "audio",
+    "title": "यदि ऑडियो नहीं चल रहा है तो क्या करें?",
+    "content": "इंटरनेट कनेक्शन, आवाज़ की मात्रा, ऑडियो डाउनलोड हुआ है या नहीं और ऐप की आवश्यक अनुमतियाँ जाँचें। समस्या बनी रहे तो “समस्या रिपोर्ट करें” विकल्प का उपयोग करें।",
+    "language_code": "hi",
+    "keywords": [
+      "audio",
+      "not",
+      "playing",
+      "ऑडियो",
+      "प्रश्न",
+      "मदद"
+    ],
+    "is_active": true,
+    "sort_order": 14
+  },
+  {
+    "slug": "audio-not-playing",
+    "category": "audio",
+    "title": "ماذا أفعل إذا لم يعمل الصوت؟",
+    "content": "تحقق من اتصال الإنترنت ومستوى الصوت وما إذا تم تنزيل الملف الصوتي ومنح التطبيق الأذونات المطلوبة. إذا استمرت المشكلة، استخدم خيار «الإبلاغ عن مشكلة».",
+    "language_code": "ar",
+    "keywords": [
+      "ماذا",
+      "أفعل",
+      "إذا",
+      "يعمل",
+      "audio",
+      "not"
+    ],
+    "is_active": true,
+    "sort_order": 14
+  },
+  {
+    "slug": "narration-language",
+    "category": "audio",
+    "title": "Na kom jeziku se reprodukuje naracija?",
+    "content": "Naracija se reprodukuje na jeziku koji je izabran za VTG aplikaciju.",
+    "language_code": "sr",
+    "keywords": [
+      "kom",
+      "jeziku",
+      "reprodukuje",
+      "naracija",
+      "narration",
+      "language"
+    ],
+    "is_active": true,
+    "sort_order": 15
+  },
+  {
+    "slug": "narration-language",
+    "category": "audio",
+    "title": "What language is the narration played in?",
+    "content": "Narration is played in the language selected for the VTG app.",
+    "language_code": "en",
+    "keywords": [
+      "What",
+      "language",
+      "the",
+      "narration",
+      "audio",
+      "faq"
+    ],
+    "is_active": true,
+    "sort_order": 15
+  },
+  {
+    "slug": "narration-language",
+    "category": "audio",
+    "title": "In welcher Sprache wird der Audiokommentar abgespielt?",
+    "content": "Der Audiokommentar wird in der für die VTG-App ausgewählten Sprache wiedergegeben.",
+    "language_code": "de",
+    "keywords": [
+      "welcher",
+      "Sprache",
+      "wird",
+      "der",
+      "narration",
+      "language"
+    ],
+    "is_active": true,
+    "sort_order": 15
+  },
+  {
+    "slug": "narration-language",
+    "category": "audio",
+    "title": "Dans quelle langue la narration est-elle diffusée ?",
+    "content": "La narration est diffusée dans la langue choisie pour l'application VTG.",
+    "language_code": "fr",
+    "keywords": [
+      "Dans",
+      "quelle",
+      "langue",
+      "narration",
+      "language",
+      "audio"
+    ],
+    "is_active": true,
+    "sort_order": 15
+  },
+  {
+    "slug": "narration-language",
+    "category": "audio",
+    "title": "In quale lingua viene riprodotta la narrazione?",
+    "content": "La narrazione viene riprodotta nella lingua selezionata per l'app VTG.",
+    "language_code": "it",
+    "keywords": [
+      "quale",
+      "lingua",
+      "viene",
+      "riprodotta",
+      "narration",
+      "language"
+    ],
+    "is_active": true,
+    "sort_order": 15
+  },
+  {
+    "slug": "narration-language",
+    "category": "audio",
+    "title": "¿En qué idioma se reproduce la narración?",
+    "content": "La narración se reproduce en el idioma seleccionado para la aplicación VTG.",
+    "language_code": "es",
+    "keywords": [
+      "qué",
+      "idioma",
+      "reproduce",
+      "narración",
+      "narration",
+      "language"
+    ],
+    "is_active": true,
+    "sort_order": 15
+  },
+  {
+    "slug": "narration-language",
+    "category": "audio",
+    "title": "На каком языке воспроизводится аудиорассказ?",
+    "content": "Аудиорассказ воспроизводится на языке, выбранном для приложения VTG.",
+    "language_code": "ru",
+    "keywords": [
+      "каком",
+      "языке",
+      "воспроизводится",
+      "аудиорассказ",
+      "narration",
+      "language"
+    ],
+    "is_active": true,
+    "sort_order": 15
+  },
+  {
+    "slug": "narration-language",
+    "category": "audio",
+    "title": "语音讲解使用什么语言？",
+    "content": "语音讲解会使用您在 VTG 应用中选择的语言。",
+    "language_code": "zh",
+    "keywords": [
+      "语音讲解使用什么语言",
+      "narration",
+      "language",
+      "音频",
+      "常见问题",
+      "帮助"
+    ],
+    "is_active": true,
+    "sort_order": 15
+  },
+  {
+    "slug": "narration-language",
+    "category": "audio",
+    "title": "ऑडियो विवरण किस भाषा में चलता है?",
+    "content": "ऑडियो विवरण VTG ऐप के लिए चुनी गई भाषा में चलता है।",
+    "language_code": "hi",
+    "keywords": [
+      "वरण",
+      "चलत",
+      "narration",
+      "language",
+      "ऑडियो",
+      "प्रश्न"
+    ],
+    "is_active": true,
+    "sort_order": 15
+  },
+  {
+    "slug": "narration-language",
+    "category": "audio",
+    "title": "بأي لغة يتم تشغيل الشرح الصوتي؟",
+    "content": "يتم تشغيل الشرح الصوتي باللغة المختارة لتطبيق VTG.",
+    "language_code": "ar",
+    "keywords": [
+      "بأي",
+      "لغة",
+      "يتم",
+      "تشغيل",
+      "narration",
+      "language"
+    ],
+    "is_active": true,
+    "sort_order": 15
+  },
+  {
+    "slug": "nearby",
+    "category": "nearby",
+    "title": "Šta je „Blizu mene“?",
+    "content": "„Blizu mene“ prikazuje korisne lokacije, objekte i usluge u okolini trenutne pozicije korisnika.",
+    "language_code": "sr",
+    "keywords": [
+      "Šta",
+      "Blizu",
+      "mene",
+      "nearby",
+      "u blizini",
+      "pitanja"
+    ],
+    "is_active": true,
+    "sort_order": 16
+  },
+  {
+    "slug": "nearby",
+    "category": "nearby",
+    "title": "What is “Nearby”?",
+    "content": "Nearby shows useful places, businesses and services around your current location.",
+    "language_code": "en",
+    "keywords": [
+      "What",
+      "Nearby",
+      "nearby",
+      "faq",
+      "help"
+    ],
+    "is_active": true,
+    "sort_order": 16
+  },
+  {
+    "slug": "nearby",
+    "category": "nearby",
+    "title": "Was ist „In meiner Nähe“?",
+    "content": "„In meiner Nähe“ zeigt nützliche Orte, Einrichtungen und Dienstleistungen rund um Ihren aktuellen Standort.",
+    "language_code": "de",
+    "keywords": [
+      "Was",
+      "ist",
+      "meiner",
+      "Nähe",
+      "nearby",
+      "fragen"
+    ],
+    "is_active": true,
+    "sort_order": 16
+  },
+  {
+    "slug": "nearby",
+    "category": "nearby",
+    "title": "Qu'est-ce que « À proximité » ?",
+    "content": "« À proximité » affiche des lieux, établissements et services utiles autour de votre position actuelle.",
+    "language_code": "fr",
+    "keywords": [
+      "est",
+      "que",
+      "proximité",
+      "nearby",
+      "à proximité",
+      "questions"
+    ],
+    "is_active": true,
+    "sort_order": 16
+  },
+  {
+    "slug": "nearby",
+    "category": "nearby",
+    "title": "Che cos'è “Nelle vicinanze”?",
+    "content": "“Nelle vicinanze” mostra luoghi, attività e servizi utili intorno alla tua posizione attuale.",
+    "language_code": "it",
+    "keywords": [
+      "Che",
+      "cos",
+      "Nelle",
+      "vicinanze",
+      "nearby",
+      "vicino"
+    ],
+    "is_active": true,
+    "sort_order": 16
+  },
+  {
+    "slug": "nearby",
+    "category": "nearby",
+    "title": "¿Qué es «Cerca de mí»?",
+    "content": "«Cerca de mí» muestra lugares, establecimientos y servicios útiles alrededor de tu ubicación actual.",
+    "language_code": "es",
+    "keywords": [
+      "Qué",
+      "Cerca",
+      "nearby",
+      "cerca",
+      "preguntas",
+      "ayuda"
+    ],
+    "is_active": true,
+    "sort_order": 16
+  },
+  {
+    "slug": "nearby",
+    "category": "nearby",
+    "title": "Что такое «Рядом со мной»?",
+    "content": "Раздел «Рядом со мной» показывает полезные места, организации и услуги возле вашего текущего местоположения.",
+    "language_code": "ru",
+    "keywords": [
+      "Что",
+      "такое",
+      "Рядом",
+      "мной",
+      "nearby",
+      "рядом"
+    ],
+    "is_active": true,
+    "sort_order": 16
+  },
+  {
+    "slug": "nearby",
+    "category": "nearby",
+    "title": "什么是“附近”？",
+    "content": "“附近”会显示您当前位置周边的实用地点、商家和服务。",
+    "language_code": "zh",
+    "keywords": [
+      "什么是",
+      "nearby",
+      "附近",
+      "常见问题",
+      "帮助"
+    ],
+    "is_active": true,
+    "sort_order": 16
+  },
+  {
+    "slug": "nearby",
+    "category": "nearby",
+    "title": "“मेरे पास” क्या है?",
+    "content": "“मेरे पास” आपकी वर्तमान लोकेशन के आसपास उपयोगी स्थान, व्यवसाय और सेवाएँ दिखाता है।",
+    "language_code": "hi",
+    "keywords": [
+      "nearby",
+      "पास में",
+      "प्रश्न",
+      "मदद"
+    ],
+    "is_active": true,
+    "sort_order": 16
+  },
+  {
+    "slug": "nearby",
+    "category": "nearby",
+    "title": "ما هي ميزة «بالقرب مني»؟",
+    "content": "تعرض ميزة «بالقرب مني» الأماكن والمنشآت والخدمات المفيدة القريبة من موقعك الحالي.",
+    "language_code": "ar",
+    "keywords": [
+      "ميزة",
+      "بالقرب",
+      "مني",
+      "nearby",
+      "أسئلة",
+      "مساعدة"
+    ],
+    "is_active": true,
+    "sort_order": 16
+  },
+  {
+    "slug": "nearby-distance",
+    "category": "nearby",
+    "title": "Kako se određuje šta je blizu mene?",
+    "content": "VTG koristi lokaciju uređaja i udaljenost dostupnih rezultata od trenutne pozicije korisnika.",
+    "language_code": "sr",
+    "keywords": [
+      "Kako",
+      "određuje",
+      "šta",
+      "blizu",
+      "nearby",
+      "distance"
+    ],
+    "is_active": true,
+    "sort_order": 17
+  },
+  {
+    "slug": "nearby-distance",
+    "category": "nearby",
+    "title": "How does VTG determine what is nearby?",
+    "content": "VTG uses your device location and the distance between your current position and available results.",
+    "language_code": "en",
+    "keywords": [
+      "How",
+      "does",
+      "VTG",
+      "determine",
+      "nearby",
+      "distance"
+    ],
+    "is_active": true,
+    "sort_order": 17
+  },
+  {
+    "slug": "nearby-distance",
+    "category": "nearby",
+    "title": "Wie bestimmt VTG, was sich in meiner Nähe befindet?",
+    "content": "VTG verwendet den Standort Ihres Geräts und die Entfernung der verfügbaren Ergebnisse von Ihrer aktuellen Position.",
+    "language_code": "de",
+    "keywords": [
+      "Wie",
+      "bestimmt",
+      "VTG",
+      "was",
+      "nearby",
+      "distance"
+    ],
+    "is_active": true,
+    "sort_order": 17
+  },
+  {
+    "slug": "nearby-distance",
+    "category": "nearby",
+    "title": "Comment VTG détermine-t-il ce qui se trouve à proximité ?",
+    "content": "VTG utilise la position de votre appareil et la distance entre votre position actuelle et les résultats disponibles.",
+    "language_code": "fr",
+    "keywords": [
+      "Comment",
+      "VTG",
+      "détermine",
+      "qui",
+      "nearby",
+      "distance"
+    ],
+    "is_active": true,
+    "sort_order": 17
+  },
+  {
+    "slug": "nearby-distance",
+    "category": "nearby",
+    "title": "Come determina VTG cosa si trova nelle vicinanze?",
+    "content": "VTG utilizza la posizione del dispositivo e la distanza tra la posizione attuale e i risultati disponibili.",
+    "language_code": "it",
+    "keywords": [
+      "Come",
+      "determina",
+      "VTG",
+      "cosa",
+      "nearby",
+      "distance"
+    ],
+    "is_active": true,
+    "sort_order": 17
+  },
+  {
+    "slug": "nearby-distance",
+    "category": "nearby",
+    "title": "¿Cómo determina VTG qué está cerca de mí?",
+    "content": "VTG utiliza la ubicación del dispositivo y la distancia entre tu posición actual y los resultados disponibles.",
+    "language_code": "es",
+    "keywords": [
+      "Cómo",
+      "determina",
+      "VTG",
+      "qué",
+      "nearby",
+      "distance"
+    ],
+    "is_active": true,
+    "sort_order": 17
+  },
+  {
+    "slug": "nearby-distance",
+    "category": "nearby",
+    "title": "Как VTG определяет, что находится рядом?",
+    "content": "VTG использует местоположение устройства и расстояние от вашей текущей позиции до доступных результатов.",
+    "language_code": "ru",
+    "keywords": [
+      "Как",
+      "VTG",
+      "определяет",
+      "что",
+      "nearby",
+      "distance"
+    ],
+    "is_active": true,
+    "sort_order": 17
+  },
+  {
+    "slug": "nearby-distance",
+    "category": "nearby",
+    "title": "VTG 如何判断哪些地点在附近？",
+    "content": "VTG 会使用设备位置，并根据可用结果与您当前位置之间的距离进行判断。",
+    "language_code": "zh",
+    "keywords": [
+      "VTG",
+      "如何判断哪些地点在附近",
+      "nearby",
+      "distance",
+      "附近",
+      "常见问题"
+    ],
+    "is_active": true,
+    "sort_order": 17
+  },
+  {
+    "slug": "nearby-distance",
+    "category": "nearby",
+    "title": "VTG यह कैसे तय करता है कि मेरे पास क्या है?",
+    "content": "VTG आपके डिवाइस की लोकेशन और उपलब्ध परिणामों की आपकी वर्तमान स्थिति से दूरी का उपयोग करता है।",
+    "language_code": "hi",
+    "keywords": [
+      "VTG",
+      "करत",
+      "nearby",
+      "distance",
+      "पास में",
+      "प्रश्न"
+    ],
+    "is_active": true,
+    "sort_order": 17
+  },
+  {
+    "slug": "nearby-distance",
+    "category": "nearby",
+    "title": "كيف يحدد VTG ما هو قريب مني؟",
+    "content": "يستخدم VTG موقع الجهاز والمسافة بين موقعك الحالي والنتائج المتاحة.",
+    "language_code": "ar",
+    "keywords": [
+      "كيف",
+      "يحدد",
+      "VTG",
+      "قريب",
+      "nearby",
+      "distance"
+    ],
+    "is_active": true,
+    "sort_order": 17
+  },
+  {
+    "slug": "wrong-nearby-results",
+    "category": "nearby",
+    "title": "Zašto vidim pogrešne ili veoma udaljene rezultate?",
+    "content": "Razlog može biti netačna lokacija telefona ili neodgovarajući rezultat iz spoljnog izvora podataka. Ako primetite takav rezultat, možete ga prijaviti VTG podršci.",
+    "language_code": "sr",
+    "keywords": [
+      "Zašto",
+      "vidim",
+      "pogrešne",
+      "ili",
+      "wrong",
+      "nearby"
+    ],
+    "is_active": true,
+    "sort_order": 18
+  },
+  {
+    "slug": "wrong-nearby-results",
+    "category": "nearby",
+    "title": "Why do I see incorrect or very distant results?",
+    "content": "This may be caused by an inaccurate phone location or an unsuitable result from an external data source. You can report such results to VTG Support.",
+    "language_code": "en",
+    "keywords": [
+      "Why",
+      "see",
+      "incorrect",
+      "very",
+      "wrong",
+      "nearby"
+    ],
+    "is_active": true,
+    "sort_order": 18
+  },
+  {
+    "slug": "wrong-nearby-results",
+    "category": "nearby",
+    "title": "Warum sehe ich falsche oder sehr weit entfernte Ergebnisse?",
+    "content": "Ursache kann ein ungenauer Gerätestandort oder ein ungeeignetes Ergebnis einer externen Datenquelle sein. Solche Ergebnisse können Sie dem VTG-Support melden.",
+    "language_code": "de",
+    "keywords": [
+      "Warum",
+      "sehe",
+      "ich",
+      "falsche",
+      "wrong",
+      "nearby"
+    ],
+    "is_active": true,
+    "sort_order": 18
+  },
+  {
+    "slug": "wrong-nearby-results",
+    "category": "nearby",
+    "title": "Pourquoi certains résultats sont-ils incorrects ou très éloignés ?",
+    "content": "Cela peut provenir d'une localisation imprécise du téléphone ou d'un résultat inadapté provenant d'une source externe. Vous pouvez signaler ces résultats à l'assistance VTG.",
+    "language_code": "fr",
+    "keywords": [
+      "Pourquoi",
+      "certains",
+      "résultats",
+      "sont",
+      "wrong",
+      "nearby"
+    ],
+    "is_active": true,
+    "sort_order": 18
+  },
+  {
+    "slug": "wrong-nearby-results",
+    "category": "nearby",
+    "title": "Perché vedo risultati errati o molto lontani?",
+    "content": "Potrebbe dipendere da una posizione imprecisa del telefono o da un risultato non adatto proveniente da una fonte esterna. Puoi segnalarlo all'assistenza VTG.",
+    "language_code": "it",
+    "keywords": [
+      "Perché",
+      "vedo",
+      "risultati",
+      "errati",
+      "wrong",
+      "nearby"
+    ],
+    "is_active": true,
+    "sort_order": 18
+  },
+  {
+    "slug": "wrong-nearby-results",
+    "category": "nearby",
+    "title": "¿Por qué aparecen resultados incorrectos o muy lejanos?",
+    "content": "Puede deberse a una ubicación imprecisa del teléfono o a un resultado inadecuado de una fuente externa. Puedes informar de estos resultados al soporte de VTG.",
+    "language_code": "es",
+    "keywords": [
+      "Por",
+      "qué",
+      "aparecen",
+      "resultados",
+      "wrong",
+      "nearby"
+    ],
+    "is_active": true,
+    "sort_order": 18
+  },
+  {
+    "slug": "wrong-nearby-results",
+    "category": "nearby",
+    "title": "Почему отображаются неправильные или очень удалённые результаты?",
+    "content": "Причиной может быть неточное местоположение телефона или неподходящий результат из внешнего источника данных. Такой результат можно сообщить службе поддержки VTG.",
+    "language_code": "ru",
+    "keywords": [
+      "Почему",
+      "отображаются",
+      "неправильные",
+      "или",
+      "wrong",
+      "nearby"
+    ],
+    "is_active": true,
+    "sort_order": 18
+  },
+  {
+    "slug": "wrong-nearby-results",
+    "category": "nearby",
+    "title": "为什么会看到错误或距离很远的结果？",
+    "content": "可能是手机定位不准确，或外部数据源返回了不合适的结果。您可以将此类结果报告给 VTG 支持。",
+    "language_code": "zh",
+    "keywords": [
+      "为什么会看到错误或距离很远的结果",
+      "wrong",
+      "nearby",
+      "results",
+      "附近",
+      "常见问题"
+    ],
+    "is_active": true,
+    "sort_order": 18
+  },
+  {
+    "slug": "wrong-nearby-results",
+    "category": "nearby",
+    "title": "मुझे गलत या बहुत दूर के परिणाम क्यों दिखाई देते हैं?",
+    "content": "इसका कारण फ़ोन की गलत लोकेशन या किसी बाहरी डेटा स्रोत का अनुपयुक्त परिणाम हो सकता है। ऐसे परिणाम VTG सहायता को रिपोर्ट किए जा सकते हैं।",
+    "language_code": "hi",
+    "keywords": [
+      "गलत",
+      "wrong",
+      "nearby",
+      "results",
+      "पास में",
+      "प्रश्न"
+    ],
+    "is_active": true,
+    "sort_order": 18
+  },
+  {
+    "slug": "wrong-nearby-results",
+    "category": "nearby",
+    "title": "لماذا تظهر نتائج غير صحيحة أو بعيدة جدًا؟",
+    "content": "قد يكون السبب عدم دقة موقع الهاتف أو نتيجة غير مناسبة من مصدر بيانات خارجي. يمكنك الإبلاغ عن هذه النتائج إلى دعم VTG.",
+    "language_code": "ar",
+    "keywords": [
+      "لماذا",
+      "تظهر",
+      "نتائج",
+      "غير",
+      "wrong",
+      "nearby"
+    ],
+    "is_active": true,
+    "sort_order": 18
+  },
+  {
+    "slug": "vtg-partner",
+    "category": "nearby",
+    "title": "Šta znači oznaka „VTG partner“?",
+    "content": "Oznaka pokazuje da je određeni objekat ili usluga poslovni partner VTG-a i jasno označava partnerski ili sponzorisani sadržaj.",
+    "language_code": "sr",
+    "keywords": [
+      "Šta",
+      "znači",
+      "oznaka",
+      "VTG",
+      "vtg",
+      "partner"
+    ],
+    "is_active": true,
+    "sort_order": 19
+  },
+  {
+    "slug": "vtg-partner",
+    "category": "nearby",
+    "title": "What does the “VTG partner” label mean?",
+    "content": "It means that the business or service is a VTG business partner and clearly identifies partner or sponsored content.",
+    "language_code": "en",
+    "keywords": [
+      "What",
+      "does",
+      "the",
+      "VTG",
+      "vtg",
+      "partner"
+    ],
+    "is_active": true,
+    "sort_order": 19
+  },
+  {
+    "slug": "vtg-partner",
+    "category": "nearby",
+    "title": "Was bedeutet die Kennzeichnung „VTG Partner“?",
+    "content": "Sie zeigt an, dass der Betrieb oder Dienst ein Geschäftspartner von VTG ist, und kennzeichnet Partner- oder gesponserte Inhalte.",
+    "language_code": "de",
+    "keywords": [
+      "Was",
+      "bedeutet",
+      "die",
+      "Kennzeichnung",
+      "vtg",
+      "partner"
+    ],
+    "is_active": true,
+    "sort_order": 19
+  },
+  {
+    "slug": "vtg-partner",
+    "category": "nearby",
+    "title": "Que signifie la mention « Partenaire VTG » ?",
+    "content": "Elle indique que l'établissement ou le service est un partenaire commercial de VTG et permet d'identifier clairement le contenu partenaire ou sponsorisé.",
+    "language_code": "fr",
+    "keywords": [
+      "Que",
+      "signifie",
+      "mention",
+      "Partenaire",
+      "vtg",
+      "partner"
+    ],
+    "is_active": true,
+    "sort_order": 19
+  },
+  {
+    "slug": "vtg-partner",
+    "category": "nearby",
+    "title": "Cosa significa l'etichetta “Partner VTG”?",
+    "content": "Indica che l'attività o il servizio è un partner commerciale di VTG e identifica chiaramente i contenuti partner o sponsorizzati.",
+    "language_code": "it",
+    "keywords": [
+      "Cosa",
+      "significa",
+      "etichetta",
+      "Partner",
+      "vtg",
+      "partner"
+    ],
+    "is_active": true,
+    "sort_order": 19
+  },
+  {
+    "slug": "vtg-partner",
+    "category": "nearby",
+    "title": "¿Qué significa la etiqueta «Socio de VTG»?",
+    "content": "Indica que el establecimiento o servicio es un socio comercial de VTG y permite identificar claramente contenido asociado o patrocinado.",
+    "language_code": "es",
+    "keywords": [
+      "Qué",
+      "significa",
+      "etiqueta",
+      "Socio",
+      "vtg",
+      "partner"
+    ],
+    "is_active": true,
+    "sort_order": 19
+  },
+  {
+    "slug": "vtg-partner",
+    "category": "nearby",
+    "title": "Что означает отметка «Партнёр VTG»?",
+    "content": "Она означает, что организация или услуга является деловым партнёром VTG, и обозначает партнёрский или спонсируемый контент.",
+    "language_code": "ru",
+    "keywords": [
+      "Что",
+      "означает",
+      "отметка",
+      "Партнёр",
+      "vtg",
+      "partner"
+    ],
+    "is_active": true,
+    "sort_order": 19
+  },
+  {
+    "slug": "vtg-partner",
+    "category": "nearby",
+    "title": "“VTG 合作伙伴”标识是什么意思？",
+    "content": "该标识表示相关商家或服务是 VTG 的商业合作伙伴，用于明确标示合作或赞助内容。",
+    "language_code": "zh",
+    "keywords": [
+      "VTG",
+      "合作伙伴",
+      "标识是什么意思",
+      "vtg",
+      "partner",
+      "附近"
+    ],
+    "is_active": true,
+    "sort_order": 19
+  },
+  {
+    "slug": "vtg-partner",
+    "category": "nearby",
+    "title": "“VTG पार्टनर” का क्या अर्थ है?",
+    "content": "इसका अर्थ है कि संबंधित व्यवसाय या सेवा VTG का व्यावसायिक साझेदार है और यह साझेदार या प्रायोजित सामग्री को स्पष्ट रूप से दर्शाता है।",
+    "language_code": "hi",
+    "keywords": [
+      "VTG",
+      "टनर",
+      "vtg",
+      "partner",
+      "पास में",
+      "प्रश्न"
+    ],
+    "is_active": true,
+    "sort_order": 19
+  },
+  {
+    "slug": "vtg-partner",
+    "category": "nearby",
+    "title": "ماذا تعني علامة «شريك VTG»؟",
+    "content": "تعني أن المنشأة أو الخدمة شريك تجاري لـ VTG، وتوضح بشكل صريح المحتوى التابع لشريك أو المحتوى المدعوم.",
+    "language_code": "ar",
+    "keywords": [
+      "ماذا",
+      "تعني",
+      "علامة",
+      "شريك",
+      "vtg",
+      "partner"
+    ],
+    "is_active": true,
+    "sort_order": 19
+  },
+  {
+    "slug": "offline-tour",
+    "category": "offline_tours",
+    "title": "Mogu li VTG turu da koristim bez interneta?",
+    "content": "Da. Ture koje podržavaju offline čuvanje mogu se prethodno preuzeti na uređaj i koristiti bez aktivne internet veze u okviru dostupnih offline funkcija.",
+    "language_code": "sr",
+    "keywords": [
+      "Mogu",
+      "VTG",
+      "turu",
+      "koristim",
+      "offline",
+      "tour"
+    ],
+    "is_active": true,
+    "sort_order": 20
+  },
+  {
+    "slug": "offline-tour",
+    "category": "offline_tours",
+    "title": "Can I use a VTG tour without internet access?",
+    "content": "Yes. Tours that support offline saving can be downloaded in advance and used without an active internet connection within the available offline features.",
+    "language_code": "en",
+    "keywords": [
+      "Can",
+      "use",
+      "VTG",
+      "tour",
+      "offline",
+      "offline tours"
+    ],
+    "is_active": true,
+    "sort_order": 20
+  },
+  {
+    "slug": "offline-tour",
+    "category": "offline_tours",
+    "title": "Kann ich eine VTG-Tour ohne Internet nutzen?",
+    "content": "Ja. Touren mit Offline-Unterstützung können vorher auf das Gerät heruntergeladen und anschließend mit den verfügbaren Offline-Funktionen ohne aktive Internetverbindung genutzt werden.",
+    "language_code": "de",
+    "keywords": [
+      "Kann",
+      "ich",
+      "eine",
+      "VTG",
+      "offline",
+      "tour"
+    ],
+    "is_active": true,
+    "sort_order": 20
+  },
+  {
+    "slug": "offline-tour",
+    "category": "offline_tours",
+    "title": "Puis-je utiliser un circuit VTG sans connexion Internet ?",
+    "content": "Oui. Les circuits compatibles peuvent être téléchargés à l'avance et utilisés sans connexion Internet active dans la limite des fonctions hors ligne disponibles.",
+    "language_code": "fr",
+    "keywords": [
+      "Puis",
+      "utiliser",
+      "circuit",
+      "VTG",
+      "offline",
+      "tour"
+    ],
+    "is_active": true,
+    "sort_order": 20
+  },
+  {
+    "slug": "offline-tour",
+    "category": "offline_tours",
+    "title": "Posso usare un tour VTG senza Internet?",
+    "content": "Sì. I tour che supportano il salvataggio offline possono essere scaricati in anticipo e utilizzati senza connessione Internet nell'ambito delle funzioni offline disponibili.",
+    "language_code": "it",
+    "keywords": [
+      "Posso",
+      "usare",
+      "tour",
+      "VTG",
+      "offline",
+      "tour offline"
+    ],
+    "is_active": true,
+    "sort_order": 20
+  },
+  {
+    "slug": "offline-tour",
+    "category": "offline_tours",
+    "title": "¿Puedo utilizar un recorrido de VTG sin Internet?",
+    "content": "Sí. Los recorridos compatibles con el uso sin conexión pueden descargarse previamente y utilizarse sin una conexión activa dentro de las funciones offline disponibles.",
+    "language_code": "es",
+    "keywords": [
+      "Puedo",
+      "utilizar",
+      "recorrido",
+      "VTG",
+      "offline",
+      "tour"
+    ],
+    "is_active": true,
+    "sort_order": 20
+  },
+  {
+    "slug": "offline-tour",
+    "category": "offline_tours",
+    "title": "Можно ли пользоваться маршрутом VTG без интернета?",
+    "content": "Да. Маршруты с поддержкой офлайн-режима можно заранее скачать на устройство и использовать без активного подключения в пределах доступных офлайн-функций.",
+    "language_code": "ru",
+    "keywords": [
+      "Можно",
+      "пользоваться",
+      "маршрутом",
+      "VTG",
+      "offline",
+      "tour"
+    ],
+    "is_active": true,
+    "sort_order": 20
+  },
+  {
+    "slug": "offline-tour",
+    "category": "offline_tours",
+    "title": "没有网络时可以使用 VTG 路线吗？",
+    "content": "可以。支持离线保存的路线可以提前下载到设备，并在无网络连接时使用可用的离线功能。",
+    "language_code": "zh",
+    "keywords": [
+      "没有网络时可以使用",
+      "VTG",
+      "路线吗",
+      "offline",
+      "tour",
+      "离线路线"
+    ],
+    "is_active": true,
+    "sort_order": 20
+  },
+  {
+    "slug": "offline-tour",
+    "category": "offline_tours",
+    "title": "क्या मैं इंटरनेट के बिना VTG टूर का उपयोग कर सकता हूँ?",
+    "content": "हाँ। जो टूर ऑफ़लाइन सेविंग का समर्थन करते हैं उन्हें पहले डाउनलोड किया जा सकता है और उपलब्ध ऑफ़लाइन सुविधाओं के साथ बिना सक्रिय इंटरनेट कनेक्शन के उपयोग किया जा सकता है।",
+    "language_code": "hi",
+    "keywords": [
+      "टरन",
+      "VTG",
+      "उपय",
+      "सकत",
+      "offline",
+      "tour"
+    ],
+    "is_active": true,
+    "sort_order": 20
+  },
+  {
+    "slug": "offline-tour",
+    "category": "offline_tours",
+    "title": "هل يمكنني استخدام جولة VTG من دون إنترنت؟",
+    "content": "نعم. يمكن تنزيل الجولات التي تدعم الحفظ دون اتصال مسبقًا واستخدامها دون اتصال نشط بالإنترنت ضمن الميزات المتاحة دون اتصال.",
+    "language_code": "ar",
+    "keywords": [
+      "يمكنني",
+      "استخدام",
+      "جولة",
+      "VTG",
+      "offline",
+      "tour"
+    ],
+    "is_active": true,
+    "sort_order": 20
+  },
+  {
+    "slug": "offline-content",
+    "category": "offline_tours",
+    "title": "Šta se čuva kada preuzmem offline turu?",
+    "content": "U zavisnosti od ture, mogu se sačuvati podaci o lokacijama, tekst naracije, audio fajlovi, slike i drugi podaci potrebni za offline korišćenje.",
+    "language_code": "sr",
+    "keywords": [
+      "Šta",
+      "čuva",
+      "kada",
+      "preuzmem",
+      "offline",
+      "content"
+    ],
+    "is_active": true,
+    "sort_order": 21
+  },
+  {
+    "slug": "offline-content",
+    "category": "offline_tours",
+    "title": "What is saved when I download an offline tour?",
+    "content": "Depending on the tour, VTG may save place information, narration text, audio files, images and other data required for offline use.",
+    "language_code": "en",
+    "keywords": [
+      "What",
+      "saved",
+      "when",
+      "download",
+      "offline",
+      "content"
+    ],
+    "is_active": true,
+    "sort_order": 21
+  },
+  {
+    "slug": "offline-content",
+    "category": "offline_tours",
+    "title": "Was wird beim Herunterladen einer Offline-Tour gespeichert?",
+    "content": "Je nach Tour können Ortsinformationen, Erzähltexte, Audiodateien, Bilder und weitere für die Offline-Nutzung benötigte Daten gespeichert werden.",
+    "language_code": "de",
+    "keywords": [
+      "Was",
+      "wird",
+      "beim",
+      "Herunterladen",
+      "offline",
+      "content"
+    ],
+    "is_active": true,
+    "sort_order": 21
+  },
+  {
+    "slug": "offline-content",
+    "category": "offline_tours",
+    "title": "Qu'est-ce qui est enregistré lorsque je télécharge un circuit hors ligne ?",
+    "content": "Selon le circuit, les informations sur les lieux, le texte de narration, les fichiers audio, les images et d'autres données nécessaires peuvent être enregistrés.",
+    "language_code": "fr",
+    "keywords": [
+      "est",
+      "qui",
+      "enregistré",
+      "offline",
+      "content",
+      "circuits hors ligne"
+    ],
+    "is_active": true,
+    "sort_order": 21
+  },
+  {
+    "slug": "offline-content",
+    "category": "offline_tours",
+    "title": "Cosa viene salvato quando scarico un tour offline?",
+    "content": "A seconda del tour possono essere salvati dati sui luoghi, testo della narrazione, file audio, immagini e altri dati necessari per l'utilizzo offline.",
+    "language_code": "it",
+    "keywords": [
+      "Cosa",
+      "viene",
+      "salvato",
+      "quando",
+      "offline",
+      "content"
+    ],
+    "is_active": true,
+    "sort_order": 21
+  },
+  {
+    "slug": "offline-content",
+    "category": "offline_tours",
+    "title": "¿Qué se guarda al descargar un recorrido sin conexión?",
+    "content": "Dependiendo del recorrido, pueden guardarse datos de los lugares, texto de narración, archivos de audio, imágenes y otros datos necesarios.",
+    "language_code": "es",
+    "keywords": [
+      "Qué",
+      "guarda",
+      "descargar",
+      "recorrido",
+      "offline",
+      "content"
+    ],
+    "is_active": true,
+    "sort_order": 21
+  },
+  {
+    "slug": "offline-content",
+    "category": "offline_tours",
+    "title": "Что сохраняется при загрузке офлайн-маршрута?",
+    "content": "В зависимости от маршрута могут сохраняться данные о местах, текст рассказа, аудиофайлы, изображения и другие данные, необходимые для офлайн-использования.",
+    "language_code": "ru",
+    "keywords": [
+      "Что",
+      "сохраняется",
+      "при",
+      "загрузке",
+      "offline",
+      "content"
+    ],
+    "is_active": true,
+    "sort_order": 21
+  },
+  {
+    "slug": "offline-content",
+    "category": "offline_tours",
+    "title": "下载离线路线时会保存哪些内容？",
+    "content": "根据具体路线，可能会保存地点信息、讲解文字、音频文件、图片以及离线使用所需的其他数据。",
+    "language_code": "zh",
+    "keywords": [
+      "下载离线路线时会保存哪些内容",
+      "offline",
+      "content",
+      "离线路线",
+      "常见问题",
+      "帮助"
+    ],
+    "is_active": true,
+    "sort_order": 21
+  },
+  {
+    "slug": "offline-content",
+    "category": "offline_tours",
+    "title": "ऑफ़लाइन टूर डाउनलोड करने पर क्या सहेजा जाता है?",
+    "content": "टूर के अनुसार स्थान संबंधी जानकारी, विवरण का टेक्स्ट, ऑडियो फ़ाइलें, चित्र और ऑफ़लाइन उपयोग के लिए आवश्यक अन्य डेटा सहेजा जा सकता है।",
+    "language_code": "hi",
+    "keywords": [
+      "उनल",
+      "करन",
+      "offline",
+      "content",
+      "ऑफलाइन टूर",
+      "प्रश्न"
+    ],
+    "is_active": true,
+    "sort_order": 21
+  },
+  {
+    "slug": "offline-content",
+    "category": "offline_tours",
+    "title": "ما الذي يتم حفظه عند تنزيل جولة للاستخدام دون اتصال؟",
+    "content": "بحسب الجولة، قد يتم حفظ معلومات المواقع ونص الشرح والملفات الصوتية والصور وغيرها من البيانات المطلوبة للاستخدام دون اتصال.",
+    "language_code": "ar",
+    "keywords": [
+      "الذي",
+      "يتم",
+      "حفظه",
+      "عند",
+      "offline",
+      "content"
+    ],
+    "is_active": true,
+    "sort_order": 21
+  },
+  {
+    "slug": "offline-storage",
+    "category": "offline_tours",
+    "title": "Da li offline ture zauzimaju prostor na telefonu?",
+    "content": "Da. Offline ture koriste memoriju uređaja, a najveći deo prostora obično zauzimaju slike i audio fajlovi.",
+    "language_code": "sr",
+    "keywords": [
+      "offline",
+      "ture",
+      "zauzimaju",
+      "prostor",
+      "storage",
+      "offline ture"
+    ],
+    "is_active": true,
+    "sort_order": 22
+  },
+  {
+    "slug": "offline-storage",
+    "category": "offline_tours",
+    "title": "Do offline tours use storage space on my phone?",
+    "content": "Yes. Offline tours use device storage, with images and audio files usually taking up most of the space.",
+    "language_code": "en",
+    "keywords": [
+      "offline",
+      "tours",
+      "use",
+      "storage",
+      "offline tours",
+      "faq"
+    ],
+    "is_active": true,
+    "sort_order": 22
+  },
+  {
+    "slug": "offline-storage",
+    "category": "offline_tours",
+    "title": "Belegen Offline-Touren Speicherplatz auf meinem Telefon?",
+    "content": "Ja. Offline-Touren benötigen Gerätespeicher. Den größten Anteil belegen normalerweise Bilder und Audiodateien.",
+    "language_code": "de",
+    "keywords": [
+      "Belegen",
+      "Offline",
+      "Touren",
+      "Speicherplatz",
+      "offline",
+      "storage"
+    ],
+    "is_active": true,
+    "sort_order": 22
+  },
+  {
+    "slug": "offline-storage",
+    "category": "offline_tours",
+    "title": "Les circuits hors ligne occupent-ils de l'espace sur mon téléphone ?",
+    "content": "Oui. Ils utilisent l'espace de stockage de l'appareil, principalement pour les images et les fichiers audio.",
+    "language_code": "fr",
+    "keywords": [
+      "Les",
+      "circuits",
+      "hors",
+      "ligne",
+      "offline",
+      "storage"
+    ],
+    "is_active": true,
+    "sort_order": 22
+  },
+  {
+    "slug": "offline-storage",
+    "category": "offline_tours",
+    "title": "I tour offline occupano spazio sul telefono?",
+    "content": "Sì. Utilizzano la memoria del dispositivo e la maggior parte dello spazio è normalmente occupata da immagini e file audio.",
+    "language_code": "it",
+    "keywords": [
+      "tour",
+      "offline",
+      "occupano",
+      "spazio",
+      "storage",
+      "tour offline"
+    ],
+    "is_active": true,
+    "sort_order": 22
+  },
+  {
+    "slug": "offline-storage",
+    "category": "offline_tours",
+    "title": "¿Los recorridos sin conexión ocupan espacio en el teléfono?",
+    "content": "Sí. Utilizan almacenamiento del dispositivo y normalmente las imágenes y los archivos de audio ocupan la mayor parte del espacio.",
+    "language_code": "es",
+    "keywords": [
+      "Los",
+      "recorridos",
+      "sin",
+      "conexión",
+      "offline",
+      "storage"
+    ],
+    "is_active": true,
+    "sort_order": 22
+  },
+  {
+    "slug": "offline-storage",
+    "category": "offline_tours",
+    "title": "Занимают ли офлайн-маршруты место в памяти телефона?",
+    "content": "Да. Они используют память устройства, причём большую часть обычно занимают изображения и аудиофайлы.",
+    "language_code": "ru",
+    "keywords": [
+      "Занимают",
+      "офлайн",
+      "маршруты",
+      "место",
+      "offline",
+      "storage"
+    ],
+    "is_active": true,
+    "sort_order": 22
+  },
+  {
+    "slug": "offline-storage",
+    "category": "offline_tours",
+    "title": "离线路线会占用手机存储空间吗？",
+    "content": "会。离线路线会使用设备存储空间，其中图片和音频文件通常占用最多。",
+    "language_code": "zh",
+    "keywords": [
+      "离线路线会占用手机存储空间吗",
+      "offline",
+      "storage",
+      "离线路线",
+      "常见问题",
+      "帮助"
+    ],
+    "is_active": true,
+    "sort_order": 22
+  },
+  {
+    "slug": "offline-storage",
+    "category": "offline_tours",
+    "title": "क्या ऑफ़लाइन टूर फ़ोन की स्टोरेज का उपयोग करते हैं?",
+    "content": "हाँ। ऑफ़लाइन टूर डिवाइस स्टोरेज का उपयोग करते हैं और आम तौर पर चित्र तथा ऑडियो फ़ाइलें सबसे अधिक स्थान लेती हैं।",
+    "language_code": "hi",
+    "keywords": [
+      "उपय",
+      "करत",
+      "offline",
+      "storage",
+      "ऑफलाइन टूर",
+      "प्रश्न"
+    ],
+    "is_active": true,
+    "sort_order": 22
+  },
+  {
+    "slug": "offline-storage",
+    "category": "offline_tours",
+    "title": "هل تشغل الجولات دون اتصال مساحة على الهاتف؟",
+    "content": "نعم. تستخدم الجولات دون اتصال مساحة تخزين الجهاز، وعادةً ما تشغل الصور والملفات الصوتية الجزء الأكبر منها.",
+    "language_code": "ar",
+    "keywords": [
+      "تشغل",
+      "الجولات",
+      "دون",
+      "اتصال",
+      "offline",
+      "storage"
+    ],
+    "is_active": true,
+    "sort_order": 22
+  },
+  {
+    "slug": "delete-offline-tour",
+    "category": "offline_tours",
+    "title": "Mogu li obrisati offline turu?",
+    "content": "Da. Sačuvane offline ture mogu se ukloniti iz aplikacije kada vam više nisu potrebne.",
+    "language_code": "sr",
+    "keywords": [
+      "Mogu",
+      "obrisati",
+      "offline",
+      "turu",
+      "delete",
+      "tour"
+    ],
+    "is_active": true,
+    "sort_order": 23
+  },
+  {
+    "slug": "delete-offline-tour",
+    "category": "offline_tours",
+    "title": "Can I delete an offline tour?",
+    "content": "Yes. Saved offline tours can be removed from the app when you no longer need them.",
+    "language_code": "en",
+    "keywords": [
+      "Can",
+      "delete",
+      "offline",
+      "tour",
+      "offline tours",
+      "faq"
+    ],
+    "is_active": true,
+    "sort_order": 23
+  },
+  {
+    "slug": "delete-offline-tour",
+    "category": "offline_tours",
+    "title": "Kann ich eine Offline-Tour löschen?",
+    "content": "Ja. Gespeicherte Offline-Touren können aus der App entfernt werden, wenn Sie sie nicht mehr benötigen.",
+    "language_code": "de",
+    "keywords": [
+      "Kann",
+      "ich",
+      "eine",
+      "Offline",
+      "delete",
+      "offline"
+    ],
+    "is_active": true,
+    "sort_order": 23
+  },
+  {
+    "slug": "delete-offline-tour",
+    "category": "offline_tours",
+    "title": "Puis-je supprimer un circuit hors ligne ?",
+    "content": "Oui. Les circuits enregistrés hors ligne peuvent être supprimés de l'application lorsqu'ils ne sont plus nécessaires.",
+    "language_code": "fr",
+    "keywords": [
+      "Puis",
+      "supprimer",
+      "circuit",
+      "hors",
+      "delete",
+      "offline"
+    ],
+    "is_active": true,
+    "sort_order": 23
+  },
+  {
+    "slug": "delete-offline-tour",
+    "category": "offline_tours",
+    "title": "Posso eliminare un tour offline?",
+    "content": "Sì. I tour salvati offline possono essere rimossi dall'app quando non servono più.",
+    "language_code": "it",
+    "keywords": [
+      "Posso",
+      "eliminare",
+      "tour",
+      "offline",
+      "delete",
+      "tour offline"
+    ],
+    "is_active": true,
+    "sort_order": 23
+  },
+  {
+    "slug": "delete-offline-tour",
+    "category": "offline_tours",
+    "title": "¿Puedo eliminar un recorrido sin conexión?",
+    "content": "Sí. Los recorridos guardados sin conexión pueden eliminarse de la aplicación cuando ya no sean necesarios.",
+    "language_code": "es",
+    "keywords": [
+      "Puedo",
+      "eliminar",
+      "recorrido",
+      "sin",
+      "delete",
+      "offline"
+    ],
+    "is_active": true,
+    "sort_order": 23
+  },
+  {
+    "slug": "delete-offline-tour",
+    "category": "offline_tours",
+    "title": "Можно ли удалить офлайн-маршрут?",
+    "content": "Да. Сохранённые офлайн-маршруты можно удалить из приложения, когда они больше не нужны.",
+    "language_code": "ru",
+    "keywords": [
+      "Можно",
+      "удалить",
+      "офлайн",
+      "маршрут",
+      "delete",
+      "offline"
+    ],
+    "is_active": true,
+    "sort_order": 23
+  },
+  {
+    "slug": "delete-offline-tour",
+    "category": "offline_tours",
+    "title": "可以删除离线路线吗？",
+    "content": "可以。当您不再需要已保存的离线路线时，可以从应用中删除。",
+    "language_code": "zh",
+    "keywords": [
+      "可以删除离线路线吗",
+      "delete",
+      "offline",
+      "tour",
+      "离线路线",
+      "常见问题"
+    ],
+    "is_active": true,
+    "sort_order": 23
+  },
+  {
+    "slug": "delete-offline-tour",
+    "category": "offline_tours",
+    "title": "क्या मैं ऑफ़लाइन टूर हटा सकता हूँ?",
+    "content": "हाँ। जब सहेजे गए ऑफ़लाइन टूर की आवश्यकता न हो तो उन्हें ऐप से हटाया जा सकता है।",
+    "language_code": "hi",
+    "keywords": [
+      "सकत",
+      "delete",
+      "offline",
+      "tour",
+      "ऑफलाइन टूर",
+      "प्रश्न"
+    ],
+    "is_active": true,
+    "sort_order": 23
+  },
+  {
+    "slug": "delete-offline-tour",
+    "category": "offline_tours",
+    "title": "هل يمكنني حذف جولة محفوظة دون اتصال؟",
+    "content": "نعم. يمكن إزالة الجولات المحفوظة دون اتصال من التطبيق عندما لا تعود بحاجة إليها.",
+    "language_code": "ar",
+    "keywords": [
+      "يمكنني",
+      "حذف",
+      "جولة",
+      "محفوظة",
+      "delete",
+      "offline"
+    ],
+    "is_active": true,
+    "sort_order": 23
+  },
+  {
+    "slug": "offline-download-problem",
+    "category": "offline_tours",
+    "title": "Zašto preuzimanje offline ture nije završeno?",
+    "content": "Preuzimanje može biti prekinuto zbog gubitka internet veze, zatvaranja aplikacije, poziva ili drugih ograničenja uređaja. U tom slučaju pokušajte ponovo kada imate stabilnu vezu.",
+    "language_code": "sr",
+    "keywords": [
+      "Zašto",
+      "preuzimanje",
+      "offline",
+      "ture",
+      "download",
+      "problem"
+    ],
+    "is_active": true,
+    "sort_order": 24
+  },
+  {
+    "slug": "offline-download-problem",
+    "category": "offline_tours",
+    "title": "Why did my offline tour download not finish?",
+    "content": "A download may be interrupted by loss of internet connection, closing the app, a phone call or other device restrictions. Try again when you have a stable connection.",
+    "language_code": "en",
+    "keywords": [
+      "Why",
+      "did",
+      "offline",
+      "tour",
+      "download",
+      "problem"
+    ],
+    "is_active": true,
+    "sort_order": 24
+  },
+  {
+    "slug": "offline-download-problem",
+    "category": "offline_tours",
+    "title": "Warum wurde meine Offline-Tour nicht vollständig heruntergeladen?",
+    "content": "Der Download kann durch eine unterbrochene Internetverbindung, das Schließen der App, einen Anruf oder andere Geräteeinschränkungen unterbrochen werden. Versuchen Sie es bei stabiler Verbindung erneut.",
+    "language_code": "de",
+    "keywords": [
+      "Warum",
+      "wurde",
+      "meine",
+      "Offline",
+      "offline",
+      "download"
+    ],
+    "is_active": true,
+    "sort_order": 24
+  },
+  {
+    "slug": "offline-download-problem",
+    "category": "offline_tours",
+    "title": "Pourquoi le téléchargement de mon circuit hors ligne ne s'est-il pas terminé ?",
+    "content": "Le téléchargement peut être interrompu par une perte de connexion, la fermeture de l'application, un appel ou d'autres restrictions de l'appareil. Réessayez avec une connexion stable.",
+    "language_code": "fr",
+    "keywords": [
+      "Pourquoi",
+      "téléchargement",
+      "mon",
+      "circuit",
+      "offline",
+      "download"
+    ],
+    "is_active": true,
+    "sort_order": 24
+  },
+  {
+    "slug": "offline-download-problem",
+    "category": "offline_tours",
+    "title": "Perché il download del tour offline non è terminato?",
+    "content": "Il download può essere interrotto dalla perdita della connessione Internet, dalla chiusura dell'app, da una chiamata o da altre limitazioni del dispositivo. Riprova con una connessione stabile.",
+    "language_code": "it",
+    "keywords": [
+      "Perché",
+      "download",
+      "del",
+      "tour",
+      "offline",
+      "problem"
+    ],
+    "is_active": true,
+    "sort_order": 24
+  },
+  {
+    "slug": "offline-download-problem",
+    "category": "offline_tours",
+    "title": "¿Por qué no terminó la descarga del recorrido sin conexión?",
+    "content": "La descarga puede interrumpirse por una pérdida de conexión, el cierre de la aplicación, una llamada u otras restricciones del dispositivo. Inténtalo de nuevo cuando tengas una conexión estable.",
+    "language_code": "es",
+    "keywords": [
+      "Por",
+      "qué",
+      "terminó",
+      "descarga",
+      "offline",
+      "download"
+    ],
+    "is_active": true,
+    "sort_order": 24
+  },
+  {
+    "slug": "offline-download-problem",
+    "category": "offline_tours",
+    "title": "Почему загрузка офлайн-маршрута не завершилась?",
+    "content": "Загрузка может прерваться из-за потери интернета, закрытия приложения, телефонного звонка или других ограничений устройства. Попробуйте снова при стабильном соединении.",
+    "language_code": "ru",
+    "keywords": [
+      "Почему",
+      "загрузка",
+      "офлайн",
+      "маршрута",
+      "offline",
+      "download"
+    ],
+    "is_active": true,
+    "sort_order": 24
+  },
+  {
+    "slug": "offline-download-problem",
+    "category": "offline_tours",
+    "title": "为什么离线路线没有下载完成？",
+    "content": "网络中断、关闭应用、接听电话或设备的其他限制都可能导致下载中断。请在网络稳定时重新尝试。",
+    "language_code": "zh",
+    "keywords": [
+      "为什么离线路线没有下载完成",
+      "offline",
+      "download",
+      "problem",
+      "离线路线",
+      "常见问题"
+    ],
+    "is_active": true,
+    "sort_order": 24
+  },
+  {
+    "slug": "offline-download-problem",
+    "category": "offline_tours",
+    "title": "ऑफ़लाइन टूर का डाउनलोड पूरा क्यों नहीं हुआ?",
+    "content": "इंटरनेट कनेक्शन टूटने, ऐप बंद होने, फ़ोन कॉल या डिवाइस की अन्य सीमाओं के कारण डाउनलोड रुक सकता है। स्थिर कनेक्शन मिलने पर फिर प्रयास करें।",
+    "language_code": "hi",
+    "keywords": [
+      "उनल",
+      "offline",
+      "download",
+      "problem",
+      "ऑफलाइन टूर",
+      "प्रश्न"
+    ],
+    "is_active": true,
+    "sort_order": 24
+  },
+  {
+    "slug": "offline-download-problem",
+    "category": "offline_tours",
+    "title": "لماذا لم يكتمل تنزيل الجولة دون اتصال؟",
+    "content": "قد ينقطع التنزيل بسبب فقدان الاتصال بالإنترنت أو إغلاق التطبيق أو تلقي مكالمة أو قيود أخرى في الجهاز. حاول مرة أخرى عند توفر اتصال مستقر.",
+    "language_code": "ar",
+    "keywords": [
+      "لماذا",
+      "يكتمل",
+      "تنزيل",
+      "الجولة",
+      "offline",
+      "download"
+    ],
+    "is_active": true,
+    "sort_order": 24
+  },
+  {
+    "slug": "visited-places",
+    "category": "account",
+    "title": "Da li VTG pamti mesta koja sam posetio?",
+    "content": "VTG može evidentirati posećene lokacije kako bi ih prikazao u istoriji i koristio za bolju organizaciju budućih tura.",
+    "language_code": "sr",
+    "keywords": [
+      "VTG",
+      "pamti",
+      "mesta",
+      "koja",
+      "visited",
+      "places"
+    ],
+    "is_active": true,
+    "sort_order": 25
+  },
+  {
+    "slug": "visited-places",
+    "category": "account",
+    "title": "Does VTG remember places I have visited?",
+    "content": "VTG can record visited places so they can appear in your history and help organize future tours.",
+    "language_code": "en",
+    "keywords": [
+      "Does",
+      "VTG",
+      "remember",
+      "places",
+      "visited",
+      "account"
+    ],
+    "is_active": true,
+    "sort_order": 25
+  },
+  {
+    "slug": "visited-places",
+    "category": "account",
+    "title": "Speichert VTG Orte, die ich besucht habe?",
+    "content": "VTG kann besuchte Orte erfassen, damit sie im Verlauf angezeigt und zur besseren Organisation zukünftiger Touren verwendet werden können.",
+    "language_code": "de",
+    "keywords": [
+      "Speichert",
+      "VTG",
+      "Orte",
+      "die",
+      "visited",
+      "places"
+    ],
+    "is_active": true,
+    "sort_order": 25
+  },
+  {
+    "slug": "visited-places",
+    "category": "account",
+    "title": "VTG mémorise-t-il les lieux que j'ai visités ?",
+    "content": "VTG peut enregistrer les lieux visités afin de les afficher dans votre historique et d'aider à mieux organiser vos futurs circuits.",
+    "language_code": "fr",
+    "keywords": [
+      "VTG",
+      "mémorise",
+      "les",
+      "lieux",
+      "visited",
+      "places"
+    ],
+    "is_active": true,
+    "sort_order": 25
+  },
+  {
+    "slug": "visited-places",
+    "category": "account",
+    "title": "VTG ricorda i luoghi che ho visitato?",
+    "content": "VTG può registrare i luoghi visitati per mostrarli nella cronologia e utilizzarli per organizzare meglio i tour futuri.",
+    "language_code": "it",
+    "keywords": [
+      "VTG",
+      "ricorda",
+      "luoghi",
+      "che",
+      "visited",
+      "places"
+    ],
+    "is_active": true,
+    "sort_order": 25
+  },
+  {
+    "slug": "visited-places",
+    "category": "account",
+    "title": "¿VTG recuerda los lugares que he visitado?",
+    "content": "VTG puede registrar los lugares visitados para mostrarlos en el historial y utilizarlos para organizar mejor futuros recorridos.",
+    "language_code": "es",
+    "keywords": [
+      "VTG",
+      "recuerda",
+      "los",
+      "lugares",
+      "visited",
+      "places"
+    ],
+    "is_active": true,
+    "sort_order": 25
+  },
+  {
+    "slug": "visited-places",
+    "category": "account",
+    "title": "Запоминает ли VTG места, которые я посетил?",
+    "content": "VTG может сохранять информацию о посещённых местах, чтобы показывать их в истории и лучше организовывать будущие маршруты.",
+    "language_code": "ru",
+    "keywords": [
+      "Запоминает",
+      "VTG",
+      "места",
+      "которые",
+      "visited",
+      "places"
+    ],
+    "is_active": true,
+    "sort_order": 25
+  },
+  {
+    "slug": "visited-places",
+    "category": "account",
+    "title": "VTG 会记录我去过的地点吗？",
+    "content": "VTG 可以记录已访问的地点，以便显示在历史记录中，并帮助更好地组织之后的路线。",
+    "language_code": "zh",
+    "keywords": [
+      "VTG",
+      "会记录我去过的地点吗",
+      "visited",
+      "places",
+      "账户",
+      "常见问题"
+    ],
+    "is_active": true,
+    "sort_order": 25
+  },
+  {
+    "slug": "visited-places",
+    "category": "account",
+    "title": "क्या VTG मेरे देखे गए स्थान याद रखता है?",
+    "content": "VTG देखे गए स्थानों को दर्ज कर सकता है ताकि वे आपके इतिहास में दिखाई दें और भविष्य के टूर को बेहतर तरीके से व्यवस्थित करने में मदद करें।",
+    "language_code": "hi",
+    "keywords": [
+      "VTG",
+      "रखत",
+      "visited",
+      "places",
+      "खाता",
+      "प्रश्न"
+    ],
+    "is_active": true,
+    "sort_order": 25
+  },
+  {
+    "slug": "visited-places",
+    "category": "account",
+    "title": "هل يتذكر VTG الأماكن التي زرتها؟",
+    "content": "يمكن لـ VTG تسجيل الأماكن التي زرتها لعرضها في السجل واستخدامها في تنظيم الجولات المستقبلية بشكل أفضل.",
+    "language_code": "ar",
+    "keywords": [
+      "يتذكر",
+      "VTG",
+      "الأماكن",
+      "التي",
+      "visited",
+      "places"
+    ],
+    "is_active": true,
+    "sort_order": 25
+  },
+  {
+    "slug": "visited-future-suggestions",
+    "category": "account",
+    "title": "Da li već posećena mesta nestaju iz budućih predloga?",
+    "content": "Ne moraju. Posećena mesta mogu ostati dostupna, dok VTG njihov status može koristiti prilikom predlaganja redosleda ili novih tura.",
+    "language_code": "sr",
+    "keywords": [
+      "već",
+      "posećena",
+      "mesta",
+      "nestaju",
+      "visited",
+      "future"
+    ],
+    "is_active": true,
+    "sort_order": 26
+  },
+  {
+    "slug": "visited-future-suggestions",
+    "category": "account",
+    "title": "Do previously visited places disappear from future suggestions?",
+    "content": "Not necessarily. Visited places may remain available, while VTG can use their visited status when suggesting tour order or future tours.",
+    "language_code": "en",
+    "keywords": [
+      "previously",
+      "visited",
+      "places",
+      "disappear",
+      "future",
+      "suggestions"
+    ],
+    "is_active": true,
+    "sort_order": 26
+  },
+  {
+    "slug": "visited-future-suggestions",
+    "category": "account",
+    "title": "Verschwinden bereits besuchte Orte aus zukünftigen Vorschlägen?",
+    "content": "Nicht unbedingt. Besuchte Orte können weiterhin verfügbar bleiben. VTG kann ihren Status jedoch bei zukünftigen Tourvorschlägen oder der Reihenfolge berücksichtigen.",
+    "language_code": "de",
+    "keywords": [
+      "Verschwinden",
+      "bereits",
+      "besuchte",
+      "Orte",
+      "visited",
+      "future"
+    ],
+    "is_active": true,
+    "sort_order": 26
+  },
+  {
+    "slug": "visited-future-suggestions",
+    "category": "account",
+    "title": "Les lieux déjà visités disparaissent-ils des futures suggestions ?",
+    "content": "Pas nécessairement. Les lieux visités peuvent rester disponibles, mais VTG peut tenir compte de leur statut lors de la proposition de nouveaux circuits ou de leur ordre.",
+    "language_code": "fr",
+    "keywords": [
+      "Les",
+      "lieux",
+      "déjà",
+      "visités",
+      "visited",
+      "future"
+    ],
+    "is_active": true,
+    "sort_order": 26
+  },
+  {
+    "slug": "visited-future-suggestions",
+    "category": "account",
+    "title": "I luoghi già visitati scompaiono dai suggerimenti futuri?",
+    "content": "Non necessariamente. I luoghi visitati possono rimanere disponibili e VTG può tener conto del loro stato quando propone nuovi itinerari o l'ordine di visita.",
+    "language_code": "it",
+    "keywords": [
+      "luoghi",
+      "già",
+      "visitati",
+      "scompaiono",
+      "visited",
+      "future"
+    ],
+    "is_active": true,
+    "sort_order": 26
+  },
+  {
+    "slug": "visited-future-suggestions",
+    "category": "account",
+    "title": "¿Los lugares ya visitados desaparecen de futuras sugerencias?",
+    "content": "No necesariamente. Los lugares visitados pueden seguir disponibles, aunque VTG puede tener en cuenta su estado al proponer nuevos recorridos o el orden de visita.",
+    "language_code": "es",
+    "keywords": [
+      "Los",
+      "lugares",
+      "visitados",
+      "desaparecen",
+      "visited",
+      "future"
+    ],
+    "is_active": true,
+    "sort_order": 26
+  },
+  {
+    "slug": "visited-future-suggestions",
+    "category": "account",
+    "title": "Исчезают ли уже посещённые места из будущих рекомендаций?",
+    "content": "Не обязательно. Они могут оставаться доступными, а VTG может учитывать факт посещения при предложении новых маршрутов или порядка посещения.",
+    "language_code": "ru",
+    "keywords": [
+      "Исчезают",
+      "уже",
+      "посещённые",
+      "места",
+      "visited",
+      "future"
+    ],
+    "is_active": true,
+    "sort_order": 26
+  },
+  {
+    "slug": "visited-future-suggestions",
+    "category": "account",
+    "title": "已经去过的地点会从之后的推荐中消失吗？",
+    "content": "不一定。已访问地点仍可能显示，VTG 可以在推荐新的路线或访问顺序时考虑其已访问状态。",
+    "language_code": "zh",
+    "keywords": [
+      "已经去过的地点会从之后的推荐中消失吗",
+      "visited",
+      "future",
+      "suggestions",
+      "账户",
+      "常见问题"
+    ],
+    "is_active": true,
+    "sort_order": 26
+  },
+  {
+    "slug": "visited-future-suggestions",
+    "category": "account",
+    "title": "क्या पहले देखे गए स्थान भविष्य के सुझावों से हट जाते हैं?",
+    "content": "ज़रूरी नहीं। देखे गए स्थान उपलब्ध रह सकते हैं और VTG उनकी स्थिति का उपयोग भविष्य के टूर या घूमने के क्रम के सुझाव में कर सकता है।",
+    "language_code": "hi",
+    "keywords": [
+      "पहल",
+      "visited",
+      "future",
+      "suggestions",
+      "खाता",
+      "प्रश्न"
+    ],
+    "is_active": true,
+    "sort_order": 26
+  },
+  {
+    "slug": "visited-future-suggestions",
+    "category": "account",
+    "title": "هل تختفي الأماكن التي زرتها من الاقتراحات المستقبلية؟",
+    "content": "ليس بالضرورة. قد تبقى الأماكن التي تمت زيارتها متاحة، ويمكن لـ VTG استخدام حالة الزيارة عند اقتراح جولات جديدة أو ترتيب الزيارة.",
+    "language_code": "ar",
+    "keywords": [
+      "تختفي",
+      "الأماكن",
+      "التي",
+      "زرتها",
+      "visited",
+      "future"
+    ],
+    "is_active": true,
+    "sort_order": 26
+  },
+  {
+    "slug": "vtg-premium",
+    "category": "subscription",
+    "title": "Šta je VTG Premium?",
+    "content": "VTG Premium je pretplatnički nivo koji omogućava dodatne funkcije aplikacije. Tačan sadržaj paketa, period važenja i cena prikazuju se na stranici „Pretplata“.",
+    "language_code": "sr",
+    "keywords": [
+      "Šta",
+      "VTG",
+      "Premium",
+      "vtg",
+      "premium",
+      "pretplata"
+    ],
+    "is_active": true,
+    "sort_order": 27
+  },
+  {
+    "slug": "vtg-premium",
+    "category": "subscription",
+    "title": "What is VTG Premium?",
+    "content": "VTG Premium is a subscription level that provides additional app features. The exact package contents, validity period and price are shown on the Subscription page.",
+    "language_code": "en",
+    "keywords": [
+      "What",
+      "VTG",
+      "Premium",
+      "vtg",
+      "premium",
+      "subscription"
+    ],
+    "is_active": true,
+    "sort_order": 27
+  },
+  {
+    "slug": "vtg-premium",
+    "category": "subscription",
+    "title": "Was ist VTG Premium?",
+    "content": "VTG Premium ist eine Abonnementstufe mit zusätzlichen Funktionen. Inhalt des Pakets, Laufzeit und Preis werden auf der Seite „Abonnement“ angezeigt.",
+    "language_code": "de",
+    "keywords": [
+      "Was",
+      "ist",
+      "VTG",
+      "Premium",
+      "vtg",
+      "premium"
+    ],
+    "is_active": true,
+    "sort_order": 27
+  },
+  {
+    "slug": "vtg-premium",
+    "category": "subscription",
+    "title": "Qu'est-ce que VTG Premium ?",
+    "content": "VTG Premium est une formule d'abonnement donnant accès à des fonctions supplémentaires. Le contenu exact, la durée de validité et le prix sont indiqués sur la page Abonnement.",
+    "language_code": "fr",
+    "keywords": [
+      "est",
+      "que",
+      "VTG",
+      "Premium",
+      "vtg",
+      "premium"
+    ],
+    "is_active": true,
+    "sort_order": 27
+  },
+  {
+    "slug": "vtg-premium",
+    "category": "subscription",
+    "title": "Che cos'è VTG Premium?",
+    "content": "VTG Premium è un livello di abbonamento che offre funzioni aggiuntive. Contenuto del pacchetto, durata e prezzo sono indicati nella pagina Abbonamento.",
+    "language_code": "it",
+    "keywords": [
+      "Che",
+      "cos",
+      "VTG",
+      "Premium",
+      "vtg",
+      "premium"
+    ],
+    "is_active": true,
+    "sort_order": 27
+  },
+  {
+    "slug": "vtg-premium",
+    "category": "subscription",
+    "title": "¿Qué es VTG Premium?",
+    "content": "VTG Premium es un nivel de suscripción que ofrece funciones adicionales. El contenido exacto, el periodo de validez y el precio se muestran en la página Suscripción.",
+    "language_code": "es",
+    "keywords": [
+      "Qué",
+      "VTG",
+      "Premium",
+      "vtg",
+      "premium",
+      "suscripción"
+    ],
+    "is_active": true,
+    "sort_order": 27
+  },
+  {
+    "slug": "vtg-premium",
+    "category": "subscription",
+    "title": "Что такое VTG Premium?",
+    "content": "VTG Premium — это уровень подписки с дополнительными функциями приложения. Точный состав пакета, срок действия и цена отображаются на странице подписки.",
+    "language_code": "ru",
+    "keywords": [
+      "Что",
+      "такое",
+      "VTG",
+      "Premium",
+      "vtg",
+      "premium"
+    ],
+    "is_active": true,
+    "sort_order": 27
+  },
+  {
+    "slug": "vtg-premium",
+    "category": "subscription",
+    "title": "什么是 VTG Premium？",
+    "content": "VTG Premium 是提供额外应用功能的订阅级别。具体包含内容、有效期和价格会显示在“订阅”页面。",
+    "language_code": "zh",
+    "keywords": [
+      "什么是",
+      "VTG",
+      "Premium",
+      "vtg",
+      "premium",
+      "订阅"
+    ],
+    "is_active": true,
+    "sort_order": 27
+  },
+  {
+    "slug": "vtg-premium",
+    "category": "subscription",
+    "title": "VTG Premium क्या है?",
+    "content": "VTG Premium एक सदस्यता स्तर है जो ऐप की अतिरिक्त सुविधाएँ प्रदान करता है। पैकेज की पूरी जानकारी, अवधि और कीमत “सदस्यता” पेज पर दिखाई जाती है।",
+    "language_code": "hi",
+    "keywords": [
+      "VTG",
+      "Premium",
+      "vtg",
+      "premium",
+      "सदस्यता",
+      "प्रश्न"
+    ],
+    "is_active": true,
+    "sort_order": 27
+  },
+  {
+    "slug": "vtg-premium",
+    "category": "subscription",
+    "title": "ما هو VTG Premium؟",
+    "content": "VTG Premium هو مستوى اشتراك يتيح ميزات إضافية في التطبيق. يتم عرض محتوى الباقة وفترة صلاحيتها وسعرها في صفحة الاشتراك.",
+    "language_code": "ar",
+    "keywords": [
+      "VTG",
+      "Premium",
+      "vtg",
+      "premium",
+      "الاشتراك",
+      "أسئلة"
+    ],
+    "is_active": true,
+    "sort_order": 27
+  },
+  {
+    "slug": "premium-status",
+    "category": "subscription",
+    "title": "Kako mogu da proverim da li mi je Premium aktivan?",
+    "content": "Status Premium pretplate i period važenja prikazuju se u okviru korisničkog naloga ili stranice „Pretplata“.",
+    "language_code": "sr",
+    "keywords": [
+      "Kako",
+      "mogu",
+      "proverim",
+      "Premium",
+      "premium",
+      "status"
+    ],
+    "is_active": true,
+    "sort_order": 28
+  },
+  {
+    "slug": "premium-status",
+    "category": "subscription",
+    "title": "How can I check whether my Premium subscription is active?",
+    "content": "Your Premium status and validity period are displayed in your account or on the Subscription page.",
+    "language_code": "en",
+    "keywords": [
+      "How",
+      "can",
+      "check",
+      "whether",
+      "premium",
+      "status"
+    ],
+    "is_active": true,
+    "sort_order": 28
+  },
+  {
+    "slug": "premium-status",
+    "category": "subscription",
+    "title": "Wie kann ich prüfen, ob mein Premium-Abonnement aktiv ist?",
+    "content": "Ihr Premium-Status und die Gültigkeitsdauer werden in Ihrem Konto oder auf der Seite „Abonnement“ angezeigt.",
+    "language_code": "de",
+    "keywords": [
+      "Wie",
+      "kann",
+      "ich",
+      "prüfen",
+      "premium",
+      "status"
+    ],
+    "is_active": true,
+    "sort_order": 28
+  },
+  {
+    "slug": "premium-status",
+    "category": "subscription",
+    "title": "Comment vérifier si mon abonnement Premium est actif ?",
+    "content": "Le statut Premium et sa période de validité sont affichés dans votre compte ou sur la page Abonnement.",
+    "language_code": "fr",
+    "keywords": [
+      "Comment",
+      "vérifier",
+      "mon",
+      "abonnement",
+      "premium",
+      "status"
+    ],
+    "is_active": true,
+    "sort_order": 28
+  },
+  {
+    "slug": "premium-status",
+    "category": "subscription",
+    "title": "Come posso verificare se il mio Premium è attivo?",
+    "content": "Lo stato Premium e il periodo di validità sono mostrati nel tuo account o nella pagina Abbonamento.",
+    "language_code": "it",
+    "keywords": [
+      "Come",
+      "posso",
+      "verificare",
+      "mio",
+      "premium",
+      "status"
+    ],
+    "is_active": true,
+    "sort_order": 28
+  },
+  {
+    "slug": "premium-status",
+    "category": "subscription",
+    "title": "¿Cómo puedo comprobar si mi Premium está activo?",
+    "content": "El estado de Premium y su periodo de validez se muestran en tu cuenta o en la página Suscripción.",
+    "language_code": "es",
+    "keywords": [
+      "Cómo",
+      "puedo",
+      "comprobar",
+      "Premium",
+      "premium",
+      "status"
+    ],
+    "is_active": true,
+    "sort_order": 28
+  },
+  {
+    "slug": "premium-status",
+    "category": "subscription",
+    "title": "Как проверить, активна ли моя подписка Premium?",
+    "content": "Статус Premium и срок его действия отображаются в вашем аккаунте или на странице подписки.",
+    "language_code": "ru",
+    "keywords": [
+      "Как",
+      "проверить",
+      "активна",
+      "моя",
+      "premium",
+      "status"
+    ],
+    "is_active": true,
+    "sort_order": 28
+  },
+  {
+    "slug": "premium-status",
+    "category": "subscription",
+    "title": "如何查看我的 Premium 是否有效？",
+    "content": "Premium 状态和有效期会显示在您的账户或“订阅”页面中。",
+    "language_code": "zh",
+    "keywords": [
+      "如何查看我的",
+      "Premium",
+      "是否有效",
+      "premium",
+      "status",
+      "订阅"
+    ],
+    "is_active": true,
+    "sort_order": 28
+  },
+  {
+    "slug": "premium-status",
+    "category": "subscription",
+    "title": "मैं कैसे जाँचूँ कि मेरा Premium सक्रिय है?",
+    "content": "Premium की स्थिति और उसकी वैधता अवधि आपके खाते या “सदस्यता” पेज पर दिखाई जाती है।",
+    "language_code": "hi",
+    "keywords": [
+      "Premium",
+      "premium",
+      "status",
+      "सदस्यता",
+      "प्रश्न",
+      "मदद"
+    ],
+    "is_active": true,
+    "sort_order": 28
+  },
+  {
+    "slug": "premium-status",
+    "category": "subscription",
+    "title": "كيف يمكنني معرفة ما إذا كان اشتراك Premium نشطًا؟",
+    "content": "يتم عرض حالة Premium وفترة صلاحيته في حسابك أو في صفحة الاشتراك.",
+    "language_code": "ar",
+    "keywords": [
+      "كيف",
+      "يمكنني",
+      "معرفة",
+      "إذا",
+      "premium",
+      "status"
+    ],
+    "is_active": true,
+    "sort_order": 28
+  },
+  {
+    "slug": "premium-expired",
+    "category": "subscription",
+    "title": "Šta se dešava kada Premium istekne?",
+    "content": "Funkcije koje zahtevaju aktivnu Premium pretplatu mogu postati nedostupne dok se pretplata ponovo ne aktivira. Sačuvani sadržaj se ne mora automatski brisati, ali njegovo korišćenje može biti ograničeno prema pravilima paketa.",
+    "language_code": "sr",
+    "keywords": [
+      "Šta",
+      "dešava",
+      "kada",
+      "Premium",
+      "premium",
+      "expired"
+    ],
+    "is_active": true,
+    "sort_order": 29
+  },
+  {
+    "slug": "premium-expired",
+    "category": "subscription",
+    "title": "What happens when Premium expires?",
+    "content": "Features that require an active Premium subscription may become unavailable until Premium is reactivated. Saved content does not necessarily get deleted, but access to it may be limited according to the subscription rules.",
+    "language_code": "en",
+    "keywords": [
+      "What",
+      "happens",
+      "when",
+      "Premium",
+      "premium",
+      "expired"
+    ],
+    "is_active": true,
+    "sort_order": 29
+  },
+  {
+    "slug": "premium-expired",
+    "category": "subscription",
+    "title": "Was passiert, wenn Premium abläuft?",
+    "content": "Funktionen, die ein aktives Premium-Abonnement benötigen, können bis zur erneuten Aktivierung nicht verfügbar sein. Gespeicherte Inhalte werden nicht unbedingt gelöscht, ihre Nutzung kann jedoch eingeschränkt werden.",
+    "language_code": "de",
+    "keywords": [
+      "Was",
+      "passiert",
+      "wenn",
+      "Premium",
+      "premium",
+      "expired"
+    ],
+    "is_active": true,
+    "sort_order": 29
+  },
+  {
+    "slug": "premium-expired",
+    "category": "subscription",
+    "title": "Que se passe-t-il lorsque Premium expire ?",
+    "content": "Les fonctions nécessitant un abonnement Premium actif peuvent devenir indisponibles jusqu'à sa réactivation. Le contenu enregistré n'est pas nécessairement supprimé, mais son utilisation peut être limitée.",
+    "language_code": "fr",
+    "keywords": [
+      "Que",
+      "passe",
+      "lorsque",
+      "Premium",
+      "premium",
+      "expired"
+    ],
+    "is_active": true,
+    "sort_order": 29
+  },
+  {
+    "slug": "premium-expired",
+    "category": "subscription",
+    "title": "Cosa succede quando Premium scade?",
+    "content": "Le funzioni che richiedono un Premium attivo possono diventare non disponibili fino alla riattivazione. I contenuti salvati non vengono necessariamente eliminati, ma il loro utilizzo può essere limitato.",
+    "language_code": "it",
+    "keywords": [
+      "Cosa",
+      "succede",
+      "quando",
+      "Premium",
+      "premium",
+      "expired"
+    ],
+    "is_active": true,
+    "sort_order": 29
+  },
+  {
+    "slug": "premium-expired",
+    "category": "subscription",
+    "title": "¿Qué ocurre cuando caduca Premium?",
+    "content": "Las funciones que requieren una suscripción Premium activa pueden dejar de estar disponibles hasta que se reactive. El contenido guardado no necesariamente se elimina, aunque su uso puede quedar limitado.",
+    "language_code": "es",
+    "keywords": [
+      "Qué",
+      "ocurre",
+      "cuando",
+      "caduca",
+      "premium",
+      "expired"
+    ],
+    "is_active": true,
+    "sort_order": 29
+  },
+  {
+    "slug": "premium-expired",
+    "category": "subscription",
+    "title": "Что происходит после окончания Premium?",
+    "content": "Функции, требующие активной подписки Premium, могут стать недоступны до её повторной активации. Сохранённый контент не обязательно удаляется, однако доступ к нему может быть ограничен.",
+    "language_code": "ru",
+    "keywords": [
+      "Что",
+      "происходит",
+      "после",
+      "окончания",
+      "premium",
+      "expired"
+    ],
+    "is_active": true,
+    "sort_order": 29
+  },
+  {
+    "slug": "premium-expired",
+    "category": "subscription",
+    "title": "Premium 到期后会怎样？",
+    "content": "需要有效 Premium 订阅的功能可能会暂时不可用，直到重新激活订阅。已保存内容不一定会被自动删除，但其使用可能会受到订阅规则限制。",
+    "language_code": "zh",
+    "keywords": [
+      "Premium",
+      "到期后会怎样",
+      "premium",
+      "expired",
+      "订阅",
+      "常见问题"
+    ],
+    "is_active": true,
+    "sort_order": 29
+  },
+  {
+    "slug": "premium-expired",
+    "category": "subscription",
+    "title": "Premium समाप्त होने पर क्या होता है?",
+    "content": "जिन सुविधाओं के लिए सक्रिय Premium सदस्यता आवश्यक है वे दोबारा सक्रिय होने तक उपलब्ध नहीं हो सकतीं। सहेजी गई सामग्री आवश्यक रूप से हटाई नहीं जाती, लेकिन उसका उपयोग सदस्यता नियमों के अनुसार सीमित हो सकता है।",
+    "language_code": "hi",
+    "keywords": [
+      "Premium",
+      "premium",
+      "expired",
+      "सदस्यता",
+      "प्रश्न",
+      "मदद"
+    ],
+    "is_active": true,
+    "sort_order": 29
+  },
+  {
+    "slug": "premium-expired",
+    "category": "subscription",
+    "title": "ماذا يحدث عند انتهاء Premium؟",
+    "content": "قد تصبح الميزات التي تتطلب اشتراك Premium نشطًا غير متاحة حتى إعادة تفعيل الاشتراك. لا يتم بالضرورة حذف المحتوى المحفوظ، لكن قد يتم تقييد استخدامه وفقًا لقواعد الاشتراك.",
+    "language_code": "ar",
+    "keywords": [
+      "ماذا",
+      "يحدث",
+      "عند",
+      "انتهاء",
+      "premium",
+      "expired"
+    ],
+    "is_active": true,
+    "sort_order": 29
+  },
+  {
+    "slug": "support-contact",
+    "category": "technical",
+    "title": "Kako da prijavim problem ili kontaktiram VTG?",
+    "content": "Za tehnički problem koristite „Prijavi problem“. Time se kreira support ticket koji možete pratiti kroz „Moji zahtevi“. Za opšta pitanja, predloge i druge upite koristite „Pošalji nam poruku“, koja kontaktira VTG podršku bez kreiranja ticketa.",
+    "language_code": "sr",
+    "keywords": [
+      "Kako",
+      "prijavim",
+      "problem",
+      "ili",
+      "support",
+      "contact"
+    ],
+    "is_active": true,
+    "sort_order": 30
+  },
+  {
+    "slug": "support-contact",
+    "category": "technical",
+    "title": "How do I report a problem or contact VTG?",
+    "content": "For technical problems, use “Report a problem”. This creates a support ticket that you can follow under “My requests”. For general questions, suggestions and other inquiries, use “Send us a message”, which contacts VTG Support without creating a ticket.",
+    "language_code": "en",
+    "keywords": [
+      "How",
+      "report",
+      "problem",
+      "contact",
+      "support",
+      "faq"
+    ],
+    "is_active": true,
+    "sort_order": 30
+  },
+  {
+    "slug": "support-contact",
+    "category": "technical",
+    "title": "Wie melde ich ein Problem oder kontaktiere VTG?",
+    "content": "Für technische Probleme verwenden Sie „Problem melden“. Dadurch wird ein Support-Ticket erstellt, das Sie unter „Meine Anfragen“ verfolgen können. Für allgemeine Fragen, Vorschläge und andere Anliegen verwenden Sie „Nachricht senden“, ohne ein Ticket zu erstellen.",
+    "language_code": "de",
+    "keywords": [
+      "Wie",
+      "melde",
+      "ich",
+      "ein",
+      "support",
+      "contact"
+    ],
+    "is_active": true,
+    "sort_order": 30
+  },
+  {
+    "slug": "support-contact",
+    "category": "technical",
+    "title": "Comment signaler un problème ou contacter VTG ?",
+    "content": "Pour un problème technique, utilisez « Signaler un problème ». Un ticket d'assistance sera créé et pourra être suivi dans « Mes demandes ». Pour les questions générales, suggestions et autres demandes, utilisez « Envoyez-nous un message », sans création de ticket.",
+    "language_code": "fr",
+    "keywords": [
+      "Comment",
+      "signaler",
+      "problème",
+      "contacter",
+      "support",
+      "contact"
+    ],
+    "is_active": true,
+    "sort_order": 30
+  },
+  {
+    "slug": "support-contact",
+    "category": "technical",
+    "title": "Come posso segnalare un problema o contattare VTG?",
+    "content": "Per problemi tecnici usa “Segnala un problema”. Verrà creato un ticket che puoi seguire in “Le mie richieste”. Per domande generali, suggerimenti o altri messaggi usa “Inviaci un messaggio”, senza creare un ticket.",
+    "language_code": "it",
+    "keywords": [
+      "Come",
+      "posso",
+      "segnalare",
+      "problema",
+      "support",
+      "contact"
+    ],
+    "is_active": true,
+    "sort_order": 30
+  },
+  {
+    "slug": "support-contact",
+    "category": "technical",
+    "title": "¿Cómo puedo informar de un problema o contactar con VTG?",
+    "content": "Para problemas técnicos utiliza «Informar de un problema». Se creará un ticket que podrás seguir en «Mis solicitudes». Para preguntas generales, sugerencias y otras consultas utiliza «Envíanos un mensaje», sin crear un ticket.",
+    "language_code": "es",
+    "keywords": [
+      "Cómo",
+      "puedo",
+      "informar",
+      "problema",
+      "support",
+      "contact"
+    ],
+    "is_active": true,
+    "sort_order": 30
+  },
+  {
+    "slug": "support-contact",
+    "category": "technical",
+    "title": "Как сообщить о проблеме или связаться с VTG?",
+    "content": "Для технических проблем используйте «Сообщить о проблеме». Будет создан тикет поддержки, который можно отслеживать в разделе «Мои обращения». Для общих вопросов и предложений используйте «Отправить нам сообщение» — тикет при этом не создаётся.",
+    "language_code": "ru",
+    "keywords": [
+      "Как",
+      "сообщить",
+      "проблеме",
+      "или",
+      "support",
+      "contact"
+    ],
+    "is_active": true,
+    "sort_order": 30
+  },
+  {
+    "slug": "support-contact",
+    "category": "technical",
+    "title": "如何报告问题或联系 VTG？",
+    "content": "如遇技术问题，请使用“报告问题”，系统会创建支持工单，您可以在“我的请求”中查看进度。一般问题、建议或其他咨询请使用“给我们留言”，此方式不会创建工单。",
+    "language_code": "zh",
+    "keywords": [
+      "如何报告问题或联系",
+      "VTG",
+      "support",
+      "contact",
+      "支持",
+      "常见问题"
+    ],
+    "is_active": true,
+    "sort_order": 30
+  },
+  {
+    "slug": "support-contact",
+    "category": "technical",
+    "title": "मैं समस्या कैसे रिपोर्ट करूँ या VTG से संपर्क कैसे करूँ?",
+    "content": "तकनीकी समस्या के लिए “समस्या रिपोर्ट करें” का उपयोग करें। इससे एक सहायता टिकट बनता है जिसे “मेरे अनुरोध” में देखा जा सकता है। सामान्य प्रश्न, सुझाव या अन्य संदेश के लिए “हमें संदेश भेजें” का उपयोग करें; इससे टिकट नहीं बनता।",
+    "language_code": "hi",
+    "keywords": [
+      "समस",
+      "VTG",
+      "support",
+      "contact",
+      "सहायता",
+      "प्रश्न"
+    ],
+    "is_active": true,
+    "sort_order": 30
+  },
+  {
+    "slug": "support-contact",
+    "category": "technical",
+    "title": "كيف أبلغ عن مشكلة أو أتواصل مع VTG؟",
+    "content": "للمشكلات التقنية استخدم «الإبلاغ عن مشكلة»، وسيتم إنشاء تذكرة دعم يمكنك متابعتها ضمن «طلباتي». أما للأسئلة العامة والاقتراحات والاستفسارات الأخرى فاستخدم «أرسل لنا رسالة»، ولن يتم إنشاء تذكرة دعم.",
+    "language_code": "ar",
+    "keywords": [
+      "كيف",
+      "أبلغ",
+      "مشكلة",
+      "أتواصل",
+      "support",
+      "contact"
+    ],
+    "is_active": true,
+    "sort_order": 30
+  }
+]
